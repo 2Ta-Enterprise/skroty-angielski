@@ -274,11 +274,6 @@ document.getElementById("odpowiedz").addEventListener("keyup", function (event) 
 
 function zmienKategorie() {
     const wybranaKategoria = document.getElementById("kategoria").value;
-    if(wybranaKategoria = "") {
-        document.getElementById("skrot-container").style.display = "none";
-    }else {
-        document.getElementById("skrot-container").style.display = "block";
-    }
 
     if(wybranaKategoria === "klasa_2_k1") {
         document.getElementById("h1").innerHTML = "Rozwiń skrót";
