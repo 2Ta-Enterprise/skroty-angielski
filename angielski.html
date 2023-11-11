@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title>Angielski</title>
+    <link rel="stylesheet" href="style.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Bakbak+One&family=Josefin+Sans:ital,wght@1,300&display=swap" rel="stylesheet">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Bakbak+One&family=Josefin+Sans:ital,wght@1,300&family=Titillium+Web&display=swap" rel="stylesheet">
+    <script src="script.js"></script>
+</head>
+<body>
+    <section class="container">
+        <h1 id="h1">Kategornia nie została wybrana</h1>
+        <div id="skrot-container">
+            <p id="skrot"></p>
+            <p id="poprawnaOdpowiedz" style="display: none;"></p>
+            <input type="text" id="odpowiedz" placeholder="Podaj odpowiedź">
+            <button id="sprawdzOdpowiedz" onclick="sprawdzOdpowiedz()">Sprawdź</button>
+            <button id="wylosujInnySkrot" onclick="losujInnySkrót()">Wylosuj inny skrót</button>
+            <p id="wynik" style="display: none;"></p>
+            <button id="pokazOdpowiedz" style="display: none;" onclick="pokazOdpowiedz()">Pokaż odpowiedź</button>
+        </div>
+    </section>
+    <section class="container-kategoria">
+        <p class="select-label">Wybierz kategorię</p>
+        <select id="kategoria" onchange="zmienKategorie()" style="border: 2px solid rgb(204, 204, 204);">
+            <option value="" disabled selected>Wybierz kategorię</option>
+            <option value="klasa_2_k1">Klasa_2_k1</option>
+            <option value="kartkowka_08_11_2023">Kartkowka_08_11_2023</option>
+            <option value="Przykład">Przykład</option>
+            <option value="Przykład">Przykład</option>
+            <option value="Przykład">Przykład</option>
+            <!-- Dodaj więcej opcji dla innych kategorii -->
+        </select>
+        <p class="select-label">Zmień motyw</p>
+        <select id="motyw" onchange="zmienMotyw()" style="border: 2px solid rgb(204, 204, 204);">
+            <option value="Default" selected>Domyślna zieleń</option>
+            <option value="Violet">Fioletowy rozpierdol</option>
+            <option value="Pink">Różowa sraka</option>
+            <option value="Blue">Niebieskie coś</option>
+            <option value="Orange">Gówno pomarańcza</option>
+            <option value="Pony">Różowy rozpierdol</option>
+            <!-- Dodaj więcej opcji dla innych motywów -->
+        </select>
+    </section>
+    <section class="footer">
+        <b>Michał i Wojtek - 2Ta</b>
+    </section>
+</body>
+</html>
