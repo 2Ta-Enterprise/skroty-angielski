@@ -1,0 +1,210 @@
+body {
+    font-family: 'Bakbak One', cursive;
+    font-family: 'Josefin Sans', sans-serif;
+    text-align: center;  
+    background-image: linear-gradient(to bottom, #cbe279, #cad8dd);
+    background-size: 200% 100%;
+    animation: BackgroundAnimation 4s linear infinite;
+    margin: 0;
+    padding: 0;
+    height: 100vh;
+}
+@keyframes BackgroundAnimation {
+    0% {
+        background-position: 0% 50%;
+    }
+    20% {
+        background-position: 100% 50%;
+    }
+}
+h1 {
+    font-family: 'Bakbak One', cursive;
+    font-family: 'Josefin Sans', sans-serif;
+    font-family: 'Titillium Web', sans-serif;
+    width: 30%;
+    color: #fff;
+    margin-left: 10%;
+    margin-bottom: 20px;
+    font-size: 36px;
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.2);
+    background-color: rgba(0, 0, 0, 0.623);
+    padding: 10px 20px;
+    border-radius: 10px;
+    min-width: 200px;
+}
+
+
+#skrot-container {
+    background-image: linear-gradient(to bottom, #e6e6e6, #a5a5a5);
+    border-radius: 10px;
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.2);
+    padding: 20px;
+    max-width: 600px;
+    width: 100%;
+    margin: 20px auto;
+    text-align: center;
+}
+
+.container-kategoria {
+    width: 20%;
+    height: 100vh;
+    float: right;
+    background-color: rgba(0, 0, 0, 0.199);
+    border-radius: 10px;
+    margin-bottom: -60px;
+    flex: 1;
+}
+
+.container {
+    width: 80%;
+    height: 90vh;
+    float: right;
+}
+.footer {
+    width: 80%;
+    float: right;
+}
+#skrot {
+    font-size: 60px;
+    font-weight: bold;
+    margin-bottom: 30px;
+    color: #333;
+}
+
+input[type="text"] {
+    padding: 15px;
+    background-image: linear-gradient(to bottom, rgb(235, 239, 255), rgb(189, 194, 212));
+    width: 95%;
+    border: 2px solid #ccc;
+    border-radius: 5px;
+    margin-bottom: 20px;
+    font-size: 18px;
+}
+
+button {
+    padding: 15px 30px;
+    background-image: linear-gradient(to bottom, #6cad16, #217426);
+    color: white;
+    border: none;
+    cursor: pointer;
+    border-radius: 5px;
+    font-size: 20px;
+    transition: background-color 0.3s;
+    box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1);
+}
+
+button:hover {
+    background-image: linear-gradient(to bottom, #83c032, #217426);
+}
+
+#pokazOdpowiedz {
+    padding: 15px 30px;
+    width: 100%;
+    background-image: linear-gradient(to bottom, #c03f1e, #74260e);
+    color: white;
+    border: none;
+    cursor: pointer;
+    border-radius: 5px;
+    font-size: 20px;
+    transition: background-color 0.3s;
+    box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1);
+}
+
+#pokazOdpowiedz:hover {
+    background-image: linear-gradient(to bottom, #d15334, #7e2c13);
+}
+
+
+#wylosujInnySkrot {
+    padding: 15px 30px;
+    background-image: linear-gradient(to bottom, #6cad16, #217426);
+    color: white;
+    border: none;
+    cursor: pointer;
+    border-radius: 5px;
+    font-size: 20px;
+    transition: background-color 0.3s;
+    box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1);
+}
+
+#wylosujInnySkrot:hover {
+    background-image: linear-gradient(to bottom, #83c032, #217426);
+}
+
+#wynik {
+    margin-top: 20px;
+    font-weight: bold;
+    color: rgb(194, 48, 48);
+    font-size: 24px;
+    text-shadow: 1px 1px 2px rgb(236, 97, 97);
+}
+
+#poprawnaOdpowiedz {
+    margin-top: 20px;
+    font-weight: bold;
+    color: rgb(38, 252, 30);
+    font-size: 34px;
+    text-shadow: 1px 1px 3px rgba(31, 161, 63, 0.74);
+}
+
+select#kategoria {
+    padding: 10px;
+    font-size: 20px;
+    border-radius: 5px;
+    width: 75%;
+    background-image: linear-gradient(to bottom, rgb(235, 239, 255), rgb(189, 194, 212));
+}
+
+select#kategoria option {
+    padding: 10px;
+    font-size: 16px;
+}
+
+select#c::-webkit-scrollbar {
+    width: 10px;
+}
+
+select#kategoria::-webkit-scrollbar-track {
+    background: #f2f2f2;
+}
+
+select#kategoria::-webkit-scrollbar-thumb {
+    background: #ccc;
+    border-radius: 5px;
+}
+
+.select-label {
+    font-size: 25px;
+    margin-bottom: 13px;
+    font-weight: bold;
+    color: #ffffff;
+}
+
+select#motyw {
+    padding: 10px;
+    font-size: 20px;
+    border-radius: 5px;
+    width: 75%;
+    background-color: #fff;
+    background-image: linear-gradient(to bottom, rgb(235, 239, 255), rgb(189, 194, 212));
+    color: #333;
+}
+
+select#motyw option {
+    padding: 10px;
+    font-size: 16px;
+    background-color: #cccccc;
+}
+
+select#c::-webkit-scrollbar {
+    width: 10px;
+}
+
+select#motyw::-webkit-scrollbar-track {
+    background: #f2f2f2;
+}
+
+select#motyw::-webkit-scrollbar-thumb {
+    background: #ccc;
+    border-radius: 5px;
+}
