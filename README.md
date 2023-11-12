@@ -5,8 +5,8 @@
 
 ## Informacje ogólne
 
-- **Strona:** [angielski-skroty](https://michal1223r.github.io/skroty-angielski/){width=100px height=100px}
-- **Autor:** Michał R, Wojtek M
+- **Strona:** [angielski-skroty](https://michal1223r.github.io/skroty-angielski/)
+- **Autor:** Michał R & Wojtek M
 - **Wersja:** 1.0.0
 
 ## Opis
@@ -15,10 +15,10 @@ Skróty Angielski to platforma online, która umożliwia skuteczną naukę angie
 
 ## Funkcje
 
-- **Tłumaczenie Słów:** Szybkie i precyzyjne tłumaczenie słów z jednego języka na drugi.
-- **Rozwijanie Skrótów:** Pełne wyjaśnienia skrótów i akronimów używanych w języku angielskim.
+- **Tłumaczenie Słów:** Tłumaczenie słów z jednego języka na drugi stanowi wspaniałe ćwiczenie.
+- **Rozwijanie Skrótów:** Ćzwiczenie polegające na rozwijaniu skrótów w języku angielskim podniesie twój poziom nauki.
 - **Motywy:** Wybieraj spośród różnych motywów graficznych, aby dostosować stronę do swoich preferencji.
-- **Przyjazny Interfejs:** Intuicyjny interfejs użytkownika sprawia, że nauka staje się przyjemnością.
+- **Przyjazny Interfejs:** Intuicyjny interfejs użytkownika sprawia, że strona jest łatwa w obsłudze.
 
 ## Jak Zacząć?
 
@@ -33,8 +33,8 @@ Skróty Angielski to platforma online, która umożliwia skuteczną naukę angie
 
 ## Kontakt
 
-Jeśli masz pytania lub sugestie, skontaktuj się ze mną pod adresem email@example.com.
+Jeśli masz pytania lub sugestie, skontaktuj się ze mną pod adresem mr6343358@gmail.com
 
 ---
 
-**Happy Learning!** 🚀
+**Miłej nauki!** 🚀
