@@ -6,7 +6,7 @@
 
 ## Informacje ogólne
 
-- **Strona:** [Skróty Angielski](https://michal1223r.github.io/skroty-angielski/)
+- **Strona:** [angielski-skroty](https://michal1223r.github.io/skroty-angielski/){width=100px height=100px}
 - **Autor:** Michał Kowalski
 - **Wersja:** 1.0.0
 
@@ -23,7 +23,7 @@ Skróty Angielski to platforma online, która umożliwia skuteczną naukę angie
 
 ## Jak Zacząć?
 
-1. Odwiedź [Skróty Angielski](https://michal1223r.github.io/skroty-angielski/).
+1. Odwiedź [angielski-skroty](https://michal1223r.github.io/skroty-angielski/).
 2. Wybierz z menu "Angielski".
 3. Zacznij naukę i rozwijaj swoje umiejętności językowe!
 
