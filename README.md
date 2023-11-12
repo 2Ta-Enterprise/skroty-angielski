@@ -1,6 +1,6 @@
 # Skróty Angielski - Narzędzie do nauki angielskiego poprzez skróty
 
-![Skróty Angielski Logo](link_do_obrazka.png)
+![Skróty Angielski Logo](screenshots/logo.png)
 
 **Strona do nauki angielskiego w łatwy sposób poprzez tłumaczenie słów i rozwijanie skrótów.**
 
@@ -24,13 +24,13 @@ Skróty Angielski to platforma online, która umożliwia skuteczną naukę angie
 ## Jak Zacząć?
 
 1. Odwiedź [Skróty Angielski](https://michal1223r.github.io/skroty-angielski/).
-2. Zarejestruj się lub zaloguj, aby odblokować pełen zakres funkcji.
+2. Wybierz z menu "Angielski".
 3. Zacznij naukę i rozwijaj swoje umiejętności językowe!
 
 ## Zrzuty Ekranu
 
-![Zrzut ekranu 1](https://imgur.com/a/IogAA1z)
-![Zrzut ekranu 2](https://imgur.com/a/OzB2NXS)
+![Zrzut ekranu 1](screenshots/screenshot1.png)
+![Zrzut ekranu 2](screenshots/screenshot2.png)
 
 ## Kontakt
 
