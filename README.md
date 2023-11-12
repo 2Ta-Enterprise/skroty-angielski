@@ -11,7 +11,7 @@
 
 ## Opis
 
-Skróty Angielski to platforma online, która umożliwia skuteczną naukę angielskiego poprzez tłumaczenie słów i rozwijanie skrótów. Znajdziesz tutaj różnorodne narzędzia ułatwiające przyswajanie nowych słów oraz doskonalenie umiejętności językowych.
+skroty-angielski to platforma online, która umożliwia skuteczną naukę angielskiego poprzez tłumaczenie słów i rozwijanie skrótów. Znajdziesz tutaj różnorodne narzędzia ułatwiające przyswajanie nowych słów oraz doskonalenie umiejętności językowych.
 
 ## Funkcje
 
