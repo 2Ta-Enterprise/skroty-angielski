@@ -1,5 +1,5 @@
 # Narzędzie do nauki angielskiego
-![Skróty Angielski Logo](screenshots/logo.png){width=200px}
+![Skróty Angielski Logo](screenshots/logo.png)
 
 **Strona do nauki angielskiego w łatwy sposób poprzez tłumaczenie słów i rozwijanie skrótów.**
 
