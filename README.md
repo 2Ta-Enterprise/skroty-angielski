@@ -1,12 +1,12 @@
 # Skróty Angielski - Narzędzie do nauki angielskiego poprzez skróty
+![Skróty Angielski Logo](screenshots/logo.png){width=200px}
 
-<img src="screenshots/logo.png" alt="Skróty Angielski Logo" style="max-width: 100px; height: auto;">
 **Strona do nauki angielskiego w łatwy sposób poprzez tłumaczenie słów i rozwijanie skrótów.**
 
 ## Informacje ogólne
 
 - **Strona:** [angielski-skroty](https://michal1223r.github.io/skroty-angielski/){width=100px height=100px}
-- **Autor:** Michał Kowalski
+- **Autor:** Michał R, Wojtek M
 - **Wersja:** 1.0.0
 
 ## Opis
