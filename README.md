@@ -1,7 +1,6 @@
 # Skróty Angielski - Narzędzie do nauki angielskiego poprzez skróty
 
-![Skróty Angielski Logo](screenshots/logo.png)
-
+<img src="screenshots/logo.png" alt="Skróty Angielski Logo" style="max-width: 100%; height: auto;">
 **Strona do nauki angielskiego w łatwy sposób poprzez tłumaczenie słów i rozwijanie skrótów.**
 
 ## Informacje ogólne
