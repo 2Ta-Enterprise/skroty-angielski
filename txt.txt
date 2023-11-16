@@ -1,0 +1,17 @@
+
+        //Listening
+        "Rozmawiać z kimś na zmianę w swoim i jego ojczystym języku": "Do a conversation exchange",
+        "Rysować mapy myśli": "Draw mind maps",
+        "Elastyczne godziny nauki": "Flexible study hours",
+        "Wykonywać polecenia": "Follow instructions",
+        "Nauczyć się na pamięć": "Learn by heart",
+        "Słuchać podcastów": "Listen to podcast",
+        "Słowa piosenki": "Lyrisc",
+        "Uczyć się na pamięć": "Memorise",
+        "Nagrywać swój głos": "Record yourself",
+        "Stworzyć grupę osób uczących się wspólnie": "Set up a study group",
+        "Borykać się": "Struggle",
+        "Robić notatki": "Take/make notes",
+        "Używać aplikacji edkacyjnych": "Use educational apps",
+        "Używać karteczek samoprzylepnych": "Use sticky notes",
+        "Oglądać filmiki instruktażowe": "Watch video tutorials",
