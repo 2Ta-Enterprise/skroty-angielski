@@ -7,7 +7,7 @@
 
 - **Strona:** [angielski-skroty](https://2ta-enterprise.github.io/skroty-angielski)
 - **Autor:** Michał R & Wojtek M
-- **Wersja:** 1.0.0
+- **Wersja:** 1.2.0
 
 ## Opis
 
