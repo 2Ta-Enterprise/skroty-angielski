@@ -5,7 +5,7 @@
 
 ## Informacje ogólne
 
-- **Strona:** [angielski-skroty](https://michal1223r.github.io/skroty-angielski/)
+- **Strona:** [angielski-skroty]([https://2ta-enterprise.github.io/skroty-angielski])
 - **Autor:** Michał R & Wojtek M
 - **Wersja:** 1.0.0
 
@@ -22,7 +22,7 @@ skroty-angielski to platforma online, która umożliwia skuteczną naukę angiel
 
 ## Jak Zacząć?
 
-1. Odwiedź [angielski-skroty](https://michal1223r.github.io/skroty-angielski/).
+1. Odwiedź [angielski-skroty](https://2ta-enterprise.github.io/skroty-angielski).
 2. Wybierz z menu "Angielski".
 3. Zacznij naukę i rozwijaj swoje umiejętności językowe!
 
