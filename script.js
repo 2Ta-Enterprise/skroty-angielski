@@ -331,7 +331,7 @@ document.getElementById("odpowiedz").addEventListener("keyup", function (event) 
 
 document.getElementById("wylosujInnySkrot").addEventListener("keyup", function (event) {
     if (event.key === "ArrowRight") {
-        sprawdzOdpowiedz(); // Wywołaj funkcję sprawdzOdpowiedz() po naciśnięciu Enter
+        losujInnySkrót(); // Wywołaj funkcję sprawdzOdpowiedz() po naciśnięciu Enter
     }
 });
 
