@@ -270,6 +270,87 @@ const kategorieSkrótów = {
         "Wykonć zadanie" : "Perform a task",
         "Rozwiazać problem" : "Solve a problem",
         "Kurs przetrwania" : "Survival course",
+    },
+     "kartkowka_13_12_2023": {
+        // 1
+
+        "Alternatywa (dla czegoś)" : "Alternative (to sth)",
+        "Wymyślić, opracować" : "Come up with",
+        "Stworzyć" : "Create",
+        "Zaprojektować" : "Design",
+        "Opracować" : "Develop",
+        "Urządzenie" : "Device",
+        "Odkrycie" : "Discovery",
+        "Robić eksperymenty" : "Do experiments",
+        "Robić badania" : "Do research",
+        "Elektryczność" : "Electricity",
+        "Wynaleźć" : "Invent",
+        "Wynalezek" : "Invention",
+        "Dioda emitująca światło (LED)" : "Light emitting diode",
+        "Dokonać odkrycia" : "Make a discovery",
+        "Dokonać wynalazku" : "Make an invention",
+        "Penicylina" : "Penicillin",
+        "Zatrucie środowiska" : "Pollution",
+        "Reagować na" : "React to",
+        "Rejestrować" : "Record",
+        "Zredukować" : "Reduce",
+        "Badać" : "research",
+        "Wymazać" : "Rub out",
+        "Naukowiec" : "Scientist",
+        "Wszechświat" : "Universe",
+
+        // 2
+
+        "Wynalazca" : "Inventor",
+        "Zestaw" : "Kit",
+        "Narzędzie" : "Tool",
+        
+        // 3 
+
+        "Zatłoczony" : "Crowded",
+        "Pokaz świateł" : "Light show",
+        "Wystawa naukowa" : "Science exhibition",
+        
+        // 4
+
+        "Długopis kulkowy" : "Ballpoint pen",
+        "Folia bąbelkowa" : "Bubble wrap",
+        "Ładować" : "Charge",
+        "Kuchenka" : "Cooker",
+        "Korektor w płynie" : "Correction fluid",
+        "Uszkodzić" : "Damage",
+        "Choroba" : "Disease",
+        "Wytwarzać energie" : "Generate power",
+        "Upal, gorąco" : "Heat",
+        "Roztopić się" : "Melt",
+        "Kuchenka mikrofalowa" : "Microwave oven",
+        "Ruch" : "Movement",
+        "Podłączyć do prądu" : "Plug in",
+        "Karteczki samoprzylepne" : "Post-it notes",
+        "Wcisnąc guzik" : "Press a button",
+        "Wytwarzać " : "Produce",
+        "Ciągnąć" : "Pull",
+        "Dotrzeć do" : "Reach",
+        "Odgleły" : "Remote",
+        "Badacz" : "Researcher",
+        "Wyczerpać się" : "Run out",
+        "Agrafka" : "Safety pin",
+        "Energia słoneczna" : "Solar energy",
+        "Rozwiązać" : "Solve",
+        "Transportować" : "Transport",
+        "Obracać się" : "Turn",
+        "Szczepionka" : "Vaccine",
+        "Rzep" : "Velcro",
+        "Koło" : "Wheel",
+        "Gwizdek" : "Whistle",
+        "Opracować" : "Work out",
+        
+        // 5
+
+        "Mieć dośtep (do czegoś)" : "Access (sth)",
+        "Przymocować" : "Attach",
+        "Zrobić kopię zapasową" : "Back up",
+        "Dane" : "Date",
     }
 };
 
