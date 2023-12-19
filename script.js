@@ -351,6 +351,73 @@ const kategorieSkrótów = {
         "Przymocować" : "Attach",
         "Zrobić kopię zapasową" : "Back up",
         "Dane" : "Date",
+    },
+
+        "kartkowka_20_12_2023": {
+
+        // 1
+
+        "Usunąć" : "Delete",
+        "Odłączyć" : "Disconnect",
+        "Sprzęt elektroniczny" : "Electronics",
+        "Sprzęt" : "Equipment",
+        "Elektośmieci" : "E-wase",
+        "Plik" : "File",
+        "Gadżet" : "Gadget",
+        "Pozbyć się" : "Get rid of",
+        "Dysk twardy" : "Hard drive",
+        "Karta pamięci" : "Memory card",
+        "Hasło" : "Password",
+        "Przycisk zasilania" : "Power switch",
+        "Poddać recyklingowi" : "Recycle",
+        "Punkt zbiórki odpadów do recyklingu" : "Recycling point",
+        "Zresetować" : "Reset",
+        "Zapisać" : "Save",
+        "Ustawienia" : "Settings",
+        "Karta SIM" : "SIM card",
+        "Nośnik danych" : "Storage device",
+        "Chmura, dysk w chmure" : "The cloud",
+        "Przenieść" : "Transfer",
+        "Wstawiać zdjęcia" : "Upload photos",
+        "Pamieć USB, pendrive" : "USB flash drive",
+
+        // 2
+
+        "Atrakcyjny" : "Attractive",
+        "Słabo wykonany" : "Badly made",
+        "Prosty w obsłudze" : "Easy to use",
+        "Skończyć (np. gdzieś)" : "End up",
+        "Przyjazdy dla środowiska" : "Environmentally friendly",
+        "Trudny w obsłudze" : "Hard to use",
+        "Szkodić" : "Harm",
+        "Wysokiej jakości" : "High quality",
+        "Niepraktyczny" : "Impractical",
+        "Niedrogi" : "Inexpensive",
+        "Innowacyjny" : "Innovative",
+        "Niskiej jakości" : "Low quality",
+        "Opakowanie" : "Packaging",
+        "Praktyczny" : "Practical",
+        "Niezawodny, solidny" : "Reliable",
+        "Głośnik" : "Speaker",
+        "Nieatrakcyjny" : "Unattractive",
+        "Zawodny" : "Unreliable",
+        "Przydatny, użyteczny" : "Useful",
+        "Nieprzydatny, bezużyteczny" : "Useless",
+        "Dobrze wykonany" : "Well made",
+        "Bezprzewodowy" : "Wireless",
+        
+        // 3
+
+        "Wbudowany" : "Built in",
+        "Podłączyć" : "Connect",
+        "Flesz" : "Flash",
+        "Aparat drukujący zdjęcie" : "Instant camera",
+        "Natychmiast" : "Right away",
+        "Działać" : "Run",
+        "Samorównoważący się" : "Self balancing",
+        "Samoczyszczący" : "Self cleaning",
+        "Wypróbować" : "Try out",
+        "Wodoodporny" : "Waterproof",
     }
 };
 
