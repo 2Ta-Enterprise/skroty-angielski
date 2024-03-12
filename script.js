@@ -418,6 +418,49 @@ const kategorieSkrótów = {
         "Samoczyszczący" : "Self cleaning",
         "Wypróbować" : "Try out",
         "Wodoodporny" : "Waterproof",
+    },
+ "kartkowka_12_03": {
+
+        // 1
+
+        "tablica": "array",
+"redundant array of independent disks": "RAID",
+"awaria": "failure",
+"CDR": "Compact Disc Recordable",
+"CD-RW": "Compact Disc ReWritable",
+"USB": "Universal serial bus",
+"pamięć flash": "flash drive",
+"taśma magnetyczna": "magnetic tape",
+"kompresja danych": "data compression",
+"pojemność pamięci": "memory storage density",
+"SATA": "Serial Advanced Technology Attachment",
+
+        // 2
+
+        "cyfrowa kamera": "digital camera",
+"CCD": "Charge Coupled Device",
+"megapiksel": "megapixels",
+"zoom optyczny": "optical zoom",
+"zoom cyfrowy": "digital zoom",
+"pamięć flash": "flash memory",
+"drukarka atramentowa": "inkjet printers",
+"drukarka laserowa": "laser printers",
+"kalibracja": "calibration",
+"DPI": "dots per inch",
+"dostosowanie przezroczystości": "transparency adapter",
+"automatyczny podajnik": "automatic document feeder",
+        
+        // 3
+
+"MP3": "multimedia player",
+"decode AAC": "odkodowywać Advanced Audio Coding",
+"bitrate": "przepustowość",
+"freeze": "zawiesić",
+"driver": "nośnik / sterownik",
+"uploaded": "przesłać",
+"dock": "stacja",
+"gigabyte": "gigabyte",
+"capacity": "pojemność"
     }
 };
 
