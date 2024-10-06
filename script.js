@@ -74,7 +74,7 @@ const kategorieSkrótów = {
         "Obudzić się": "wake woke woken",
         "Nosić": "wear wore worn",
         "Wygrać": "win won won",
-        "Pisać": "write wrote written"
+        "Pisać": "write wrote written",
     },
     "ireggular_werbs": {
         "Być": "be was/were been",
