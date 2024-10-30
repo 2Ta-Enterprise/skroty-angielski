@@ -753,6 +753,48 @@ const kategorieSkrótów = {
         "Odstraszać kogoś" : "Put sb off",
         "Zrecenzować" : "Review",
         "Zachwycający" : "Stunning",
+    },
+
+    "kartkowka_30_10" : {
+
+        // 1
+
+"GIS" : "Geographic Information System",
+"Wzory przestrzenne" : "Spatial Patterns",
+"Współzależne" : "Correlated",
+"Szerokość geograficzna" : "Latitude"
+"Dlugość geograficzna" : "Longitude",
+"Warstwy" : "Layers",
+"Zbieranie danych" : "Data capture",
+"Zdalne wykrywanie" : "Remote sensing",
+"Meta dane" : "Metadata",
+"Siatki" : "Grids",
+"Współrzędne" : "Coordinates",
+
+// 2
+
+"Wyciągi bankowe" : "Electronic statements",
+"Aktywyność konta" : "Account activity",
+"Elektroniczny przelew" : "Electronic funds transfer",
+"Zapłacenie rachunku" : "Bill pay",
+"Oszustwa bankowe" : "Bank fraud",
+"Kradzież tożsamości" : "Identity theft",
+"PIN" : "Personal Identification Number",
+"Klucz do strony" : "Site key",
+"SSL connection" : "Secure Socket Layer",
+"Blokady" : "Blackouts",
+"Alerty dotyczące konta" : "Account alerts",
+
+// 3
+"Elektroniczne książki" : "Ebooks",
+"Dziennik elektroniczny" : "Ejournals",
+"Operatory" : "Boolean operators",
+"Zdalny dostęp" : "Remote acces",
+"Licencja na strone" : "Site license",
+"VPN" : "Virtual Private Network",
+"Ograniczenie licencji" : "License restriction",
+"Szyfrowanie" : "Encryption",
+"Narrow" : "Wąski",
     }
 };
 
