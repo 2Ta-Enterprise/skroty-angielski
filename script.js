@@ -762,7 +762,7 @@ const kategorieSkrótów = {
 "GIS" : "Geographic Information System",
 "Wzory przestrzenne" : "Spatial Patterns",
 "Współzależne" : "Correlated",
-"Szerokość geograficzna" : "Latitude"
+"Szerokość geograficzna" : "Latitude",
 "Dlugość geograficzna" : "Longitude",
 "Warstwy" : "Layers",
 "Zbieranie danych" : "Data capture",
