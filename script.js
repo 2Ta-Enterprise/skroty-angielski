@@ -935,6 +935,38 @@ const kategorieSkrótów = {
         "Próżny" : "Vain",
         "Miejsce imprezy" : "Venue",
         "Dziwny" : "Weird",
+     },
+         "kartkowka_04_12": {
+        // 13 Robotics
+        "Robotyka" : "Robotics",
+        "Autonomiczny" : "Autonomous",
+        "Robot seryjny, rotacyjny" : "Serial Robot",
+        "Złączenia" : "Joints",
+        "Chwytak" : "End-effector",
+        "Pilot" : "Pendant",
+        "Urządzenie uruchamiające" : "Actuators",
+        "Urządzenie sterujące" : "Enabling device",
+        "Moc napędów" : "Drive power",
+        //"Współrzędne" : "Equality constraint",
+        // 14 Electronic Publishing
+        "Pobrać" : "Download",
+        "Dostosować do ekranu" : "Reflow",
+        "Wyświetlić z aktywną matrycą" : "Active matrix display",
+        "Grafika bitmapowa" : "Bitmapped graphics",
+        "Wymagania systemu" : "System requirements",
+        "Odczytnik" : "PDF readers",
+        "PDF" : "Portable Document Format",
+        "Proces rozdzielczości ekranów" : "Sub - pixel rendering",
+        // 15 Artificial Intelligence
+        "Heurystyka" : "Heuristics",
+        "Kognitywny, poznawczy" : "Cognitive",
+        "Naukowcy" : "Scientists",
+        "Oparte na przypadkach" : "Case based",
+        "Rozumowanie oparte na modelu" : "Model based reasoning",
+        "Algorytmy" : "Algorithms",
+        "Uczenie maszynowe" : "Machine learning",
+        "Rozpoznawanie wzorców" : "Pattern recognition",
+        "Wizja komputerowa" : "Computer vision",
      }
 };
 
