@@ -1214,6 +1214,25 @@ const kategorieSkrótów = {
 "Aktywa" : "Assets", 
 "Niechciany" : "Unsolicited", 
     },
+    "ciezkie" : {
+        "Systemy wbudowane": "Embedded systems",
+"Układy scalone" : "Integrated circuits",
+"Nadmiarowość" : "Redundancy",
+"Opóźnienie" : "Latency",
+"Odporny na błędy" : "Fault tolerant",
+"Odwrócenia priorytetów" : "Priority inversions",
+"Podszywać się" : "Piggybacking", 
+"Wirusy nadpisujące" : "Overwriting viruses", 
+"Wirusy rezydentne" : "Resident viruses",
+"Osadzić" : "Imbed", 
+"Rezydentne rozszerzenia" : "Resident extensions", 
+"Replikacja" : "Replicate", 
+"Złośliwe oprogramowanie" : "Malware", 
+"Program szpiegujący" : "Spyware", 
+"Podszywanie się" : "Phishing", 
+"Przekierowanie na fałszywe strony" : "Pharming", 
+"Niechciany" : "Unsolicited", 
+    }
 };
 
 let poprzedniSkrót = null;
