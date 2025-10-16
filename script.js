@@ -1404,7 +1404,71 @@ const kategorieSkrótów = {
 "towarzyski / nietowarzyski": "sociabl / eunsociable",
 "porządny / niechlujny": "tidy / untidy",
 "tolerancyjny / nietolerancyjny": "tolerant / intolerant",
-        }
+        },
+                  "17_10_1_kolumna": {
+"Godny zaufania": "Trustworthy",
+"Próżny": "Vain",
+
+
+"Irytuowany, rozdrażniony": "Annoyed",
+"Zaniepokojony, zatroskany": "Anxious",
+"W dobrym/złym humorze": "In a good/bad mood",
+"Zmęczony, wyczerpany": "Exhausted",
+"Przerażony": "Frightened",
+"Zadowolony": "Pleased",
+"Wystraszony": "Scared",
+"Zestresowany": "Stressed",
+"Zdziwiony, zaskoczony": "Surprised",
+"Zmęczony": "Tired",
+"Przygnębiony, zaniepokojony": "Upset",
+"Zmartwiony": "Worried",
+
+"Uwielbiać": "Adore",
+"Być fanem kogoś/czegoś": "Be a fan of sb/sth",
+"Być beznadziejnym (w czymś)": "Be hopeless at sth",
+"Zajmować się czymś": "Be into sth",
+"Interesować się, lubić coś robić": "Be keen on sth",
+"Szaleć za kimś/czymś": "Be mad about sb/sth",
+"Nie znosić": "Can't stand",
+"Ograniczać (ilość czegoś)": "Cut down on sth",
+"Aktywności wykonywane wewnątrz/na zewnątrz budynków": "Indoor/outdoor activities",
+"Znaleźć sobie jakieś hobby/zacząć uprawiać sport": "Take up (a hobby/a sport",
+              },
+              "17_10_2_kolumna": {
+                "Pochwalać coś / nie pochwalać czegoś": "Approve / disapprove of sth",
+"Postawa wobec czegoś, stosunek do czegoś": "Attitude towards sth",
+"Zmienić zdanie": "Change one’s mind",
+"Wolność słowa": "Freedom of speech",
+"Życzliwość": "Kindness",
+"Szacunek, szanować": "Respect",
+"Być z czegoś dumnym, szczycić się czymś": "Take pride in sth",
+"Wartość": "Value",
+"Mądrość": "Wisdom",
+
+
+"Podziwiać kogoś za coś": "Admire sb for sth",
+"Być wzorem do naśladowania": "Be a role model",
+"Zainspirować się kimś/czymś": "Be inspired by sb/sth",
+"Podziwiać kogoś": "Look up to sb",
+"Samoocena": "Self-esteem",
+
+
+"Wytworzyć alternatywne rozwiązanie": "Generate an alternative",
+"Wpaść na pomysł": "Come up with an idea",
+              },
+                  "17_10_3_kolumna": {
+                "Myśleć w nieszablonowy sposób": "Think outside the box",
+                "Myśleć w twórczy sposób": "Think creatively",
+                "Rozwiązać problem": "Solve a problem",
+                "Znaleźć rozwiązanie": "Work out a dilemma",
+                "Rozpatrywać kwestię z różnych punktów widzenia": "Think from different perspectives",
+
+                "Zaangażować się w coś": "Engage in sth",
+                "Zwiększyć oczekiwaną długość życia": "Increase one’s life expectancy",
+                "Przekazać": "Pass on",
+                "Osiągnąć pełnię możliwości rozwoju": "Reach one’s full growth potential",
+                "Zmniejszyć rozmiar": "Reduce in size",
+                  }
 };
 
 let poprzedniSkrót = null;
@@ -1796,5 +1860,6 @@ window.onload = function(){
     zmienMotyw();
     losujSkrót();
 }
+
 
 
