@@ -1468,6 +1468,52 @@ const kategorieSkrótów = {
                 "Przekazać": "Pass on",
                 "Osiągnąć pełnię możliwości rozwoju": "Reach one’s full growth potential",
                 "Zmniejszyć rozmiar": "Reduce in size",
+                  },
+                      "28_10" : {
+                    "Rosnąć": "grow grew grown",
+"Wisieć / powiesić": "hang hung hung",
+"Mieć": "have had had", 
+"Słyszeć": "hear heard heard",
+"Chować": "hide hid hidden",
+"Uderzyć": "hit hit hit",
+"Trzymać": "hold held held",
+"Zranić": "hurt hurt hurt",
+"Trzymać (keep)": "keep kept kept",
+"klęczeć" : "kneel knelt knelt",
+"dziac, robic na drutach" : "knit knitted knitted",
+"Wiedzieć": "know knew known",
+"Położyć": "lay laid laid",
+"Prowadzić": "lead led led",
+"pochylać sie" : "lean leant leant",
+"skakac" : "leap leapt leapt",
+"Uczyć się": "learn learned learned",
+"Opuścić": "leave left left",
+"Pożyczyć komuś": "lend lent lent",
+"Pozwolić": "let let let",
+"Leżeć": "lie lay lain",
+"Zapalać": "light lit lit",
+"Zgubić": "lose lost lost",
+"Zrobić": "make made made",
+"Znaczyć": "mean meant meant",
+"Spotkać": "meet met met",
+"pomylic sie" : "mistake mistook mistaken",
+"kosic, sciac" : "mow mowed mowed",
+"pokonać" : "overcome overcame overcome",
+"zaspać" : "oversleep overslept overslept",
+"Płacić": "pay paid paid",
+"udowodnić" : "prove proved proved",
+"Położyć": "put put put",
+"zrezygnowac, porzucic" : "quit quit quit",
+"Czytać": "read read read",
+"Jeździć na": "ride rode ridden",
+"Dzwonić": "ring rang rung",
+"Powstać, rosnąć": "rise rose risen",
+"Biegąćś": "run ran run",
+"Powiedzieć": "say said said",
+"Zobaczyć": "see saw seen",
+"Szukać": "seek sought sought",
+"Sprzedać": "sell sold sold",
+"Wysłać": "send sent sent",
                   }
 };
 
@@ -1860,6 +1906,7 @@ window.onload = function(){
     zmienMotyw();
     losujSkrót();
 }
+
 
 
 
