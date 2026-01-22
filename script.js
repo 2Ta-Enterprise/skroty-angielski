@@ -1514,7 +1514,55 @@ const kategorieSkrótów = {
 "Szukać": "seek sought sought",
 "Sprzedać": "sell sold sold",
 "Wysłać": "send sent sent",
-                  }
+                  },
+    "22_01" : {
+"Ustawić": "set set set",
+"Ustawić": "set set set",
+"Szyc" : "sew sewed sewed",
+"Potrzasnac" : "shake shook shaken",
+"zrzucac" : "shed shed shed",
+"Świecić": "shine shone shone",
+"strzelać" : "shoot shot shot",
+"kurczyć się" : "shrink shrank shrunk",
+"Pokazaćś": "show showed shown",
+"Zamknąć": "shut shut shut",
+"Śpiewać": "sing sang sung",
+"Tonąć": "sink sank sunk",
+"Siedzieć": "sit sat sat",
+"Spać": "sleep slept slept",
+"slizgac sie" : "slide slid slid",
+"Pachnieć / Wąchać": "smell smelled smelled",
+"Mówić": "speak spoke spoken",
+"pędzić" : "speed speeded speeded",
+"Spędząć": "spend spent spent",
+"Stać": "stand stood stood",
+"Ukraść": "steal stole stolen",
+"Ukłuć": "sting stung stung",
+"śmierdzieć" : "stink stank stunk",
+"uderzyć, strajkowac" : "strike struck struck",
+"wbijac, przyklejac" : "stick stuck stuck",
+"Przyrzekać": "swear swore sworn",
+"zamiatać, wyniesc" : "sweep swept swept",
+"kołysanie/machanie" : "swing swung swung",
+"pchnac" : "thrust thrust thrust",
+"poddac sie" : "undergo underwent undergone",
+"nawijac/nakrecac" : "wind wound wound",
+"wycofać się/ wyplacic" : "withdraw withdrew withdrawn",
+"sciskac, uciskac" : "wring wrung wrung",
+"puchnac, nabrzmiewac" : "swell swelled swelled",
+"Płynąć": "swim swam swum",
+"Wziąć": "take took taken",
+"Uczyć": "teach taught taught",
+"Podrzeć": "tear tore torn",
+"Powiedzieć": "tell told told",
+"Myśleć": "think thought thought",
+"Rzucać": "throw threw thrown",
+"Rozumieć": "understand understood understood",
+"Obudzić się": "wake woke woken",
+"Nosić": "wear wore worn",
+"Wygrać": "win won won",
+"Pisać": "write wrote written",
+    }
 };
 
 let poprzedniSkrót = null;
@@ -1906,6 +1954,7 @@ window.onload = function(){
     zmienMotyw();
     losujSkrót();
 }
+
 
 
 
