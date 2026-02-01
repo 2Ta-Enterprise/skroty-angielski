@@ -1578,12 +1578,6 @@ const kategorieSkrótów = {
 "wieżowiec" : "skyscraper / tower block",
 "kawalerka" : "studio flat",
 "dom szeregowy, segment" : "terraced house",
-"w przystępnej cenie" : "affordable",
-"wszystkie wygody" : "all mod cons",
-"kawalerka do wynajęcia" : "bedsit",
-"osiedle zamknięte" : "gated community",
-"przyczepa mieszkalna" : "mobile home",
-"mieszkania dla osób wymagających opieki (np. osób starszych)" : "sheltered accommodation",
     },
     "home_surro" : {
         "po drugiej stronie ulicy" : "across the road from",
@@ -1604,14 +1598,6 @@ const kategorieSkrótów = {
 "transport publiczny" : "public transport",
 "mieszkańcy" : "residents",
 "wioska" : "village",
-"niedaleko od" : "a stone’s throw from",
-"udogodnienia" : "amenities",
-"zgiełk" : "hustle and bustle",
-"na głębokiej wsi" : "in the heart of the countryside",
-"dróżka" : "lane",
-        "liściasty, zielony" : "leafy",
-"na uboczu" : "off the beaten track",
-"w bliskiej odległości (możliwej do pokonania pieszo)" : "within walking distance of",
     },
     "rooms_h" : {
         "strych, poddasze" : "attic",
@@ -1640,11 +1626,6 @@ const kategorieSkrótów = {
 "gabinet" : "study",
 "na górze, na piętrze" : "upstairs",
 "dziedziniec, podwórze" : "yard",
-"przybudówka" : "extension",
-"półpiętro" : "landing",
-"spiżarnia" : "larder",
-"pomieszczenie gospodarcze" : "utility room",
-"garderoba" : "walk-in closet / wardrobe",
     },
     "opis_dom" : {
         "przestronny" : "airy",
@@ -1668,17 +1649,6 @@ const kategorieSkrótów = {
 "kamienny" : "stone",
         "posprzątany/nieposprzątany" : "tidy / untidy",
 "drewniany" : "wooden",
-"zabytkowy, staroświecki" : "antique",
-"ciasny" : "cramped",
-"obskurny" : "dingy",
-"zniszczony, zrujnowany" : "dilapidated",
-"wymagający remontu" : "in need of renovation",
-"dębowy" : "oak",
-"duszny" : "stuffy",
-"osobliwy" : "quaint",
-"o unikalnym wyglądzie" : "unique-looking",
-"w budowie" : "under construction",
-"dobrze utrzymany, zadbany" : "well-maintained",
 
     },
     "wyposzaenie_domu" : {
@@ -1719,15 +1689,6 @@ const kategorieSkrótów = {
 "tapeta" : "wallpaper",
 "umywalka" : "washbasin",
 "pralka" : "washing machine",
-"goła podłoga" : "bare floor",
-"narzuta na łóżko" : "bedspread",
-"pościel" : "bedding",
-"alarm antywłamaniowy" : "burglar alarm",
-"łóżko piętrowe" : "bunk bed",
-"blat kuchenny" : "countertop",
-"suszarka do naczyń" : "dish drainer",
-"okno z podwójną szybą" : "double-glazed window",
-"oczko wodne" : "fish pond"
     }
  };
 
@@ -2120,6 +2081,7 @@ window.onload = function(){
     zmienMotyw();
     losujSkrót();
 }
+
 
 
 
