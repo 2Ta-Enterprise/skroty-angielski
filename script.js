@@ -1689,6 +1689,74 @@ const kategorieSkrótów = {
 "tapeta" : "wallpaper",
 "umywalka" : "washbasin",
 "pralka" : "washing machine",
+    },
+        "prace_domowe" : {
+            "szczotka": "brush",
+"zmieniać pościel": "change the sheets",
+"szufelka": "dustpan",
+"pracować w ogrodzie": "do the gardening",
+"robić zakupy spożywcze": "do the grocery shopping",
+"robić pranie": "do the laundry",
+"zajmować się domem": "do the housework",
+"wycierać kurz z mebli": "dust the furniture",
+"opróżniać zmywarkę": "empty the dishwasher",
+"opróżniać kosz na śmieci": "empty the rubbish bin",
+"pozbywać się niepotrzebnych, nieużywanych rzeczy": "have a clear-out",
+"mieć dobrą rękę do roślin": "have green fingers",
+"odkurzać dywan": "hoover the carpet",
+"prasować ubrania": "iron the clothes",
+"utrzymywać coś w nienagannym porządku": "keep sth neat and tidy",
+"wprowadzać ulepszenia": "make improvements",
+"ścielić łóżko": "make the bed",
+"wycierać podłogę mopem": "mop the floor",
+"kosić trawnik": "mow the lawn",
+"odnowić korytarz": "renovate a corridor",
+"gumowe rękawiczki": "rubber gloves",
+"torba na zakupy": "shopping bag",
+"gąbka": "sponge",
+"zamiatać podłogę": "sweep the floor",
+"ścierka": "tea towel"
+        },
+
+   "przeprowadzka" : {
+       "zakwaterowanie": "accommodation",
+"ogłoszenie, reklama": "ad / advert",
+"aukcja, licytacja": "auction",
+"rachunek": "bill",
+"budżet": "budget",
+"kaucja, zaliczka": "deposit",
+"agent/agentka nieruchomości": "estate agent",
+"współlokator/współlokatorka": "flatmate / housemate / roommate",
+"właściciel/właścicielka (mieszkania lub domu)": "landlord / landlady",
+"mieszkać samemu": "live on one's own",
+"przeprowadzić się": "move house",
+"wprowadzić się/wprowadzić się": "move in",
+"wypowiedzenie": "notice",
+"zapłacić z góry": "pay in advance",
+"płatność": "payment",
+"samochód służący do przewożenia mebli": "removal van",
+"wynająć; czynsz": "rent",
+"dzielić z kimś pokój/mieszkanie/dom": "share a room / flat / house",
+"do wynajęcia": "to let",
+   },
+    "sluchanie" : {
+        "obowiązek, rodzaj nielubianej pracy domowej": "chore",
+"czystość": "cleanliness",
+"pozbyć się czegoś": "get rid of sth",
+"odkładać pieniądze, oszczędzać": "put money aside",
+"odkładać coś (na swoje miejsce)": "put sth away",
+"odkładać coś (na później)": "put sth off",
+"zagotować wodę (na herbatę)": "put the kettle on",
+"znosić coś, tolerować": "put up with sth",
+"nieskazitelnie czysty": "spotless",
+"wyrzucić coś": "throw sth away",
+    },
+    "czytanie" : {
+        "chromowane klamki do drzwi": "chrome door handle",
+"skrzypiące schody": "creaky stairs",
+"zarośnięty ogród": "overgrown garden",
+"górne oświetlenie": "overhead lighting",
+"ogrzewanie podłogowe": "underfloor heating",
     }
  };
 
@@ -2081,6 +2149,7 @@ window.onload = function(){
     zmienMotyw();
     losujSkrót();
 }
+
 
 
 
