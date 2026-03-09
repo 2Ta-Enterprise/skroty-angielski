@@ -1844,7 +1844,7 @@ const kategorieSkrótów = {
             "podejść do testu, podejść do egzaminu": "take a test / an exam",
             "korepetytor, korepetycje": "tutor / tutoring",
     },
-        "zycie szkoly" : {
+        "zycie_szkoly" : {
             "nieobecny, nieobecna": "absent",
             "osoba nieobecna": "absentee",
             "ocena": "assessment",
@@ -2264,6 +2264,7 @@ window.onload = function(){
     zmienMotyw();
     losujSkrót();
 }
+
 
 
 
