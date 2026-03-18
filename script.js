@@ -1948,16 +1948,6 @@ const kategorieSkrótów = {
 "Zbierać informacje": "Pick up information",
 "Wznowić pracę": "Resume one’s work",
 "Rozłożyć w czasie": "Space out",
-"Na szali": "At stake",
-"Przyczynić się do czyjegoś sukcesu": "Be the making of sb",
-"Zmierzć/uporać się z czymś": "Get to grips with sth",
-"Szybko, dynamicznie (wzrastać / rozwijać się)": "In leaps and bounds",
-"Harować jak wół": "Keep one’s nose to the grindstone",
-"Wziąć się do roboty": "Knuckle down to sth",
-"Poza czyjąś strefą komfortu": "Out of sb’s comfort zone",
-"Poradzić sobie z czymś bez problemów": "Sail through sth",
-"Ustawić komuś wysoko poprzeczkę": "Set sb’s sights high",
-"Rozrabiaka": "Tearaway",
             },
  };
 
