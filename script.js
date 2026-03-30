@@ -1949,7 +1949,7 @@ const kategorieSkrótów = {
 "Wznowić pracę": "Resume one’s work",
 "Rozłożyć w czasie": "Space out",
             },
-    "30_03_1" {
+    "30_03_1" : {
         "Księgowy / Księgowa": "accountant",
 "Architekt / Architektka": "architect",
 "Kasjer / Kasjerka w banku": "cashier",
@@ -1982,7 +1982,7 @@ const kategorieSkrótów = {
 "Prezenter telewizyjny / Prezenterka telewizyjna": "TV presenter",
 "Lekarz / Lekarka weterynarii": "vet", 
     },
-        "30_03_2" {
+        "30_03_2" : {
         "Być w pracy": "be at work",
 "Odpowiadać za kogoś / coś": "be in charge of sb / sth",
 "Być odpowiedzialnym za coś": "be responsible for sth",
@@ -2003,7 +2003,7 @@ const kategorieSkrótów = {
 "Pracować pod presją": "work under pressure",
 "Pracować z kimś": "work with sb",
     },
-        "30_03_3" {
+        "30_03_3" : {
         "Inspirująca": "inspiring",
 "Fizyczna": "manual",
 "Monotonna": "monotonous",
@@ -2014,7 +2014,7 @@ const kategorieSkrótów = {
 "Bezpłatna": "unpaid",
 "Dobrze płatna": "well-paid"
     },
-        "30_03_4" {
+        "30_03_4" : {
         "Au pair": "au pair",
 "Opiekun / opiekunka do dzieci": "babysitter",
 "Praca tymczasowa / dorywcza": "casual work",
@@ -2026,7 +2026,7 @@ const kategorieSkrótów = {
 "Opiekun / Opiekunka na obozie letnim": "Summer camp supervisor",
 "Płaca, dniówka": "Wages",
     },
-        "30_03_5" {
+        "30_03_5" : {
         "Ogłaszać": "Advertise",
 "Kandydat / Kandydatka (do pracy)": "Applicant",
 "Ubiegać się o pracę": "Apply for a job",
@@ -2060,7 +2060,7 @@ const kategorieSkrótów = {
 "Bezrobotny": "Unemployed",
 "Wakat, wolne stanowisko": "Vacancy",
     },
-        "30_03_6" {
+        "30_03_6" : {
         "Być źle/dobrze opłaconym": "Be badly / well-paid",
 "Podróż służbowa": "Business trip",
 "Szansa na awans": "Chance of promotion",
