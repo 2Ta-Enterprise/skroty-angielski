@@ -1,25 +1,52 @@
 <!DOCTYPE html>
-<html>
+<html lang="pl">
 <head>
     <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Strony 2Ta Enterprise</title>
     <link rel="stylesheet" href="style.css">
-    <link rel="preconnect" href="https://fonts.googleapis.com">
-    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-    <link href="https://fonts.googleapis.com/css2?family=Bakbak+One&family=Josefin+Sans:ital,wght@1,300&display=swap" rel="stylesheet">
-    <link rel="preconnect" href="https://fonts.googleapis.com">
-    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-    <link href="https://fonts.googleapis.com/css2?family=Bakbak+One&family=Josefin+Sans:ital,wght@1,300&family=Titillium+Web&display=swap" rel="stylesheet">
 </head>
 <body>
-    <section class="container-kategoria" style="width:100%;">
-        <a href="angielski.html" style="text-decoration: none;"><h1 id="h1" style="width: 75%; ">Angielski</h1></a>
-        <a><h1 id="h1" style="width: 75%; color: rgb(170, 170, 170);">-unavailable-</h1></a>
-        <a><h1 id="h1" style="width: 75%; color: rgb(170, 170, 170);">-unavailable-</h1></a>
-    </section>
-    <section class="footer">
+
+    <div class="app-wrapper" style="max-width: 550px;">
+        <main class="flashcard">
+            <div class="card-header">
+                <span class="quiz-badge">Platforma Edukacyjna</span>
+            </div>
+            
+            <h1 style="font-size: 2rem; font-weight: 700; color: #fff; margin-top: -10px;">
+                2Ta Enterprise
+            </h1>
+            
+            <p style="color: var(--text-muted); font-size: 0.95rem; line-height: 1.6;">
+                Interaktywne narzędzie stworzone do szybkiej i efektywnej nauki pojęć oraz słownictwa. Testuj swoją wiedzę z angielskich skrótów IT, czasowników nieregularnych oraz słówek tematycznych.
+            </p>
+
+            <div style="width: 100%; text-align: left; background: rgba(255, 255, 255, 0.03); border: 1px solid var(--card-border); padding: 16px; border-radius: 14px; margin: 5px 0;">
+                <p style="font-size: 0.8rem; text-transform: uppercase; letter-spacing: 1px; color: var(--text-muted); font-weight: 700; margin-bottom: 8px;">
+                    Możliwości aplikacji:
+                </p>
+                <ul style="color: var(--text-main); font-size: 0.9rem; margin-left: 20px; display: flex; flex-direction: column; gap: 6px;">
+                    <li>Łączenie wielu kategorii w jeden quiz</li>
+                    <li>Szybkie sprawdzanie odpowiedzi klawiszem Enter</li>
+                    <li>Wydajne powtórki ze sprawdzaniem poprawności</li>
+                    <li>Różnorodne motywy kolorystyczne</li>
+                </ul>
+            </div>
+
+            <div class="quiz-form">
+                <a href="angielski.html" style="text-decoration: none;">
+                    <button style="width: 100%; font-size: 1.05rem; padding: 16px;">
+                        Rozpocznij naukę (Angielski) →
+                    </button>
+                </a>
+            </div>
+        </main>
+    </div>
+
+    <footer class="footer">
         <b>Michał i Wojtek - 2Ta</b>
-    </section>
+    </footer>
+
 </body>
-<script src="script.js"></script>
 </html>
