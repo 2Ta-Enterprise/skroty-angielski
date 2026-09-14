@@ -1,64 +1,113 @@
 <!DOCTYPE html>
-<html>
+<html lang="pl">
 <head>
     <meta charset="UTF-8">
-    <title>Angielski</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Nauka Angielskiego</title>
     <link rel="stylesheet" href="style.css">
-    <link rel="preconnect" href="https://fonts.googleapis.com">
-    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-    <link href="https://fonts.googleapis.com/css2?family=Bakbak+One&family=Josefin+Sans:ital,wght@1,300&display=swap" rel="stylesheet">
-    <link rel="preconnect" href="https://fonts.googleapis.com">
-    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-    <link href="https://fonts.googleapis.com/css2?family=Bakbak+One&family=Josefin+Sans:ital,wght@1,300&family=Titillium+Web&display=swap" rel="stylesheet">
 </head>
 <body>
-    <section class="container">
-        <h1 id="h1">Kategornia nie została wybrana</h1>
-        <div id="skrot-container">
-            <p id="skrot"></p>
-            <p id="poprawnaOdpowiedz" style="display: none;"></p>
-            <input type="text" id="odpowiedz" placeholder="Podaj odpowiedź">
-            <button id="sprawdzOdpowiedz" onclick="sprawdzOdpowiedz()">Sprawdź</button>
-            <button id="wylosujInnySkrot" onclick="losujInnySkrót()">Wylosuj inny skrót</button>
-            <p id="wynik" style="display: none;"></p>
-            <button id="pokazOdpowiedz" style="display: none;" onclick="pokazOdpowiedz()">Pokaż odpowiedź</button>
+
+    <div class="app-wrapper">
+        <!-- Górny pasek opcji -->
+        <header class="top-bar">
+            <a href="index.html" class="back-btn">← Powrót</a>
+            <div class="top-actions">
+                <button class="icon-btn" onclick="toggleModal(true)">⚙️ Kategorie</button>
+                <select id="motyw" onchange="zmienMotyw()">
+                    <option value="Default" selected>Domyślny Ciemny</option>
+                    <option value="Violet">Fioletowy Rozbłysk</option>
+                    <option value="Pink">Różowy Akcent</option>
+                    <option value="Blue">Głęboki Błękit</option>
+                    <option value="Orange">Ciepła Pomarańcza</option>
+                    <option value="Pony">Neonowy Fiolet</option>
+                </select>
+            </div>
+        </header>
+
+        <!-- Karta Główna (Fiszka) -->
+        <main class="flashcard">
+            <div class="card-header">
+                <span class="quiz-badge" id="licznik-pojec">Dostępnych słówek: 0</span>
+            </div>
+            
+            <div id="skrot">Wybierz kategorię</div>
+            <div id="poprawnaOdpowiedz" style="display: none;"></div>
+            
+            <div class="quiz-form">
+                <input type="text" id="odpowiedz" placeholder="Wpisz odpowiedź..." autocomplete="off">
+                
+                <div class="button-group">
+                    <button id="sprawdzOdpowiedz" onclick="sprawdzOdpowiedz()">Sprawdź</button>
+                    <button id="wylosujInnySkrot" onclick="losujInnySkrót()">Wylosuj inny</button>
+                </div>
+                
+                <p id="wynik" style="display: none;"></p>
+                <button id="pokazOdpowiedz" style="display: none;" onclick="pokazOdpowiedz()">Pokaż odpowiedź</button>
+            </div>
+        </main>
+    </div>
+
+    <!-- Modal Z Wyborem Kategorii -->
+    <div class="modal-overlay" id="modal-categories">
+        <div class="modal-window">
+            <div class="modal-header">
+                <span class="modal-title">Wybierz kategorie</span>
+                <button class="close-btn" onclick="toggleModal(false)">&times;</button>
+            </div>
+            
+            <div class="modal-actions">
+                <button class="btn-sm" onclick="zaznaczWszystkie(true)">Zaznacz wszystkie</button>
+                <button class="btn-sm" onclick="zaznaczWszystkie(false)">Odznacz wszystkie</button>
+            </div>
+
+            <div class="categories-grid" id="kategorie-list">
+                <label class="checkbox-item">
+                    <input type="checkbox" value="klasa_2_k1" onchange="zaktualizujKategorie()">
+                    <span>Skróty IT (Klasa 2)</span>
+                </label>
+                <label class="checkbox-item">
+                    <input type="checkbox" value="ireggular_werbs" onchange="zaktualizujKategorie()">
+                    <span>Czasowniki nieregularne (cz. 1)</span>
+                </label>
+                <label class="checkbox-item">
+                    <input type="checkbox" value="ireggular_werbs2" onchange="zaktualizujKategorie()">
+                    <span>Czasowniki nieregularne (cz. 2)</span>
+                </label>
+                <label class="checkbox-item">
+                    <input type="checkbox" value="17_09_mp3_53" onchange="zaktualizujKategorie()">
+                    <span>17_09_mp3_53</span>
+                </label>
+                <label class="checkbox-item">
+                    <input type="checkbox" value="17_09_mp3_54" onchange="zaktualizujKategorie()">
+                    <span>17_09_mp3_54</span>
+                </label>
+                <label class="checkbox-item">
+                    <input type="checkbox" value="17_09_mp3_55" onchange="zaktualizujKategorie()">
+                    <span>17_09_mp3_55</span>
+                </label>
+                <label class="checkbox-item">
+                    <input type="checkbox" value="17_09_mp3_58" onchange="zaktualizujKategorie()">
+                    <span>17_09_mp3_58</span>
+                </label>
+                <label class="checkbox-item">
+                    <input type="checkbox" value="17_09_mp3_62" onchange="zaktualizujKategorie()">
+                    <span>17_09_mp3_62</span>
+                </label>
+                <label class="checkbox-item">
+                    <input type="checkbox" value="17_09_mp3_63" onchange="zaktualizujKategorie()">
+                    <span>17_09_mp3_63</span>
+                </label>
+            </div>
+
+            <button onclick="toggleModal(false)" style="margin-top: 10px;">Zatwierdź i Ucz się</button>
         </div>
-    </section>
-    <section class="container-kategoria">
-        <a href="index.html"><p class="back-label">Powrót</p></a>
-        <p class="select-label">Wybierz kategorię</p>
-        <select id="kategoria" onchange="zmienKategorie()" style="border: 2px solid rgb(204, 204, 204);">
-            <option value="" disabled selected>Wybierz kategorię</option>
-            <option value="17_09_mp3_53">17_09_mp3_53 (1)</option>
-                  <option value="17_09_mp3_54">17_09_mp3_54 (2)</option>
-                      <option value="17_09_mp3_55">17_09_mp3_55 (3)</option>
-                      <option value="17_09_mp3_58">17_09_mp3_58 (4)</option>
-                      <option value="17_09_mp3_62">17_09_mp3_63 (5)</option>
-                      <option value="17_09_mp3_63">17_09_mp3_63 (6)</option>
-        </select>
-        <p class="select-label">Zmień motyw</p>
-        <select id="motyw" onchange="zmienMotyw()" style="border: 2px solid rgb(204, 204, 204);">
-            <option value="Default" selected>Domyślna zieleń</option>
-            <option value="Violet">Fioletowy rozpierdol</option>
-            <option value="Pink">Różowa sraka</option>
-            <option value="Blue">Niebieskie coś</option>
-            <option value="Orange">Gówno pomarańcza</option>
-            <option value="Pony">Różowy rozpierdol</option>
-            <!-- Dodaj więcej opcji dla innych motywów -->
-        </select>
-    </section>
-    <section class="footer">
+    </div>
+
+    <footer class="footer">
         <b>Michał i Wojtek - 2Ta</b>
-    </section>
+    </footer>
+
+    <script src="script.js"></script>
 </body>
-<script src="script.js"></script>
 </html>
-
-
-
-
-
-
-
-
-
