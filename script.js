@@ -1,4 +1,3 @@
-// Definicje skrótów i ich odpowiedników w języku angielskim
 const kategorieSkrótów = {
     "klasa_2_k1": {
         "RAM": "Random Access Memory",
@@ -36,12 +35,11 @@ const kategorieSkrótów = {
         "Znaczyć": "mean meant meant",
         "Spotkać": "meet met met",
         "Płacić": "pay paid paid",
-        "Położyć": "put put put",
         "Czytać": "read read read",
         "Jeździć na": "ride rode ridden",
         "Dzwonić": "ring rang rung",
         "Powstać, rosnąć": "rise rose risen",
-        "Biegąćś": "run ran run",
+        "Biegać": "run ran run",
         "Powiedzieć": "say said said",
         "Zobaczyć": "see saw seen",
         "Szukać": "seek sought sought",
@@ -49,7 +47,7 @@ const kategorieSkrótów = {
         "Wysłać": "send sent sent",
         "Ustawić": "set set set",
         "Świecić": "shine shone shone",
-        "Pokazaćś": "show showed shown",
+        "Pokazać": "show showed shown",
         "Zamknąć": "shut shut shut",
         "Śpiewać": "sing sang sung",
         "Tonąć": "sink sank sunk",
@@ -57,7 +55,7 @@ const kategorieSkrótów = {
         "Spać": "sleep slept slept",
         "Pachnieć / Wąchać": "smell smelled smelled",
         "Mówić": "speak spoke spoken",
-        "Spędząć": "spend spent spent",
+        "Spędzać": "spend spent spent",
         "Rozlać": "spill spilled spilled",
         "Stać": "stand stood stood",
         "Ukraść": "steal stole stolen",
@@ -67,7 +65,6 @@ const kategorieSkrótów = {
         "Wziąć": "take took taken",
         "Uczyć": "teach taught taught",
         "Podrzeć": "tear tore torn",
-        "Powiedzieć": "tell told told",
         "Myśleć": "think thought thought",
         "Rzucać": "throw threw thrown",
         "Rozumieć": "understand understood understood",
@@ -94,7 +91,7 @@ const kategorieSkrótów = {
         "Wybrać": "choose chose chosen",
         "Przyjść": "come came come",
         "Kosztować": "cost cost cost",
-        "Ciać": "cut cut cut",
+        "Ciąć": "cut cut cut",
         "Kopać": "dig dug dug",
         "Zrobić": "do did done",
         "Rysować": "draw drew drawn",
@@ -103,10 +100,10 @@ const kategorieSkrótów = {
         "Prowadzić samochód": "drive drove driven",
         "Jeść": "eat ate eaten",
         "Upaść": "fall fell fallen",
-        "Nakramić": "feed fed fed",
+        "Nakarmić": "feed fed fed",
         "Czuć": "feel felt felt",
         "Walczyć": "fight fought fought",
-        "Znaleść": "find found found",
+        "Znaleźć": "find found found",
         "Lecieć": "fly flew flown",
         "Zabronić / Zakazać": "forbid forbade forbidden",
         "Zapomnieć": "forget forgot forgotten",
@@ -126,2078 +123,173 @@ const kategorieSkrótów = {
         "Trzymać (keep)": "keep kept kept",
         "Wiedzieć": "know knew known",
     },
-    "klasa_2_k2": {
-        // Temat 13
-        "DTP": "Desktop publishing",
-        "Komunikacja graficzna": "Graphic communications",
-        "Projekt, Projektowanie": "Design",
-        "Strony elektroniczne": "Electronic pages",
-        "Układ strony": "Page layouts",
-        "Kompleksowe układy (ogólny układ strony)": "Comprehensive layout",
-        "Papier elektroniczny": "Electronic paper",
-        "Litografia offset": "Offset lihtography",
-        "Druk elektrostatyczny": "Electrostatic printing",
-        // Temat 14
-        "Wideokonferencja": "Videoconferencing",
-        "Kamerka internetowa": "Webcam",
-        "Dedykowany system": "Dedicated system",
-        "Wielkopunktowa konferencja": "multipoint videoconferences",
-        "Udostępnanie dokumentów": "Document sharing",
-        "Most video": "Video bridge",
-        "Łącze": "bandwidth",
-        // Temat 15
-        "Sklepy stacjonarne (tradycyjne interes)": "Brick and mortal",
-        "Przyłączać": "Affiliate",
-        "Koszyk zakupowy": "Shopping cart",
-        "Ruch": "traffic",
-        "Wyświetlenia strony": "page views",
-        "FAQ": "Frequently Asked Questions",
-        "Cyfrowy certyfikat": "Digital certificate",
-        "Certifikat urzędowy": "Certificate authority",
+    "17_09_mp3_53": {
+        "Kosztować majątek": "Cost a fortune",
+        "Kosztowny": "Costly",
+        "Końcówka kolekcji": "End of line",
+        "Uczciwa cena": "Fair price",
+        "Za połowę ceny": "Half price",
+        "Drogi": "Expensive",
+        "Niedrogi": "Inexpensive",
+        "Niska cena": "Low price",
+        "Używany": "Second hand",
+        "Najwyższej jakości": "Top quality",
+        "Towar wart swojej ceny": "Value for money",
+        "Wart": "Worth",
     },
-    "kartkowka_08_11_2023": {
-        //Vocabulary 1
-        "Akcent": "Accent",
-        "Zadanie, zadana praca" : "Assignment",
-        "Pomoc, wsparcie" : "Assistance",
-        "Chodzić do (szkoły)" : "Attend",
-        "Skupić się" : "Concentrate",
-        "Nauczanie zdalne" : "Distance learning",
-        "Wykonać projekt" : "Do a project",
-        "Wyszukać informacje" : "Do research",
-        "Wysłowić się" : "Express yourself",
-        "Mieć zaległości w nauce" : "Fall behind with schoolwork",
-        "Zdobywać wiedzę" : "Gain knowledge",
-        "Poprawiać się" : "Get better",
-        "Prowadzić rozmowę" : "Have a conversation",
-        "Wysokie oczekiwania" : "High expectations",
-        "Poprawić oceny" : "Improve your grades",
-        "Nabyć nową umiejętność" : "Learn a new skill",
-        "Skończyć szkołę" : "Leave school",
-        "Motywować" : "Motivate",
-        "Rodzimy użytkownik języka" : "Native speaker",
-        "Ćwiczyć" : "Practise",
-        "Świadectwo szkolne" : "School certificate",
-        "Surowy" : "Strict",
-        "Nadzorować" : "Supervise",
-        "Oprogramowanie do wideokonferencji" : "Video conferencing app",
-        //Speaking
-        "Zajęcia pozaszkolne" : "After-school activities",
-        "Wolontariat" : "Charity work",
-        "Kurs gotowania" : "Cookery course",
-        "Lekcje rysunku" : "Drawing classes",
-        "Zapełniać się" : "Fill up",
-        "Kurs pierwszej pomocy" : "First-aid course",
-        "Zajęcia z projektowania graficznego" : "Graphic design classes",
-        "Kurs na producenta muzycznego" : "Music production course",
-        "Zarejestrować się" : "Register",
-        "Formularz rejestracji" : "Registration form",
-        "Kurs robotyki" : "Robotics course",
-        "Śpiewać w chórze" : "Sing in choir",
-        //Reading
-        "Kurs/zajęcia w jakiejś dziedzinie aktywności" : "Activity course",
-        "Pokonać" : "Beat",
-        "Rozczarowany" : "Disappointed",
-        "Wykonać zadanie" : "Do a task",
-        "Eksperymentować z" : "Experiment with",
-        "Przedstawić prezentacje" : "Give a presentation",
-        "Pojechać na obóz" : "Join a camp",
-        "Nauczyć się prowadzić" : "Learn to drive",
-        "Opanować" : "Master",
-        "Okazja" : "Opportunity",
-        "Uczestnik" : "Participant",
-        "Zdać egzamin na prawo jazdy" : "Pass your driving test",
-        "Praktyczny" : "Practical",
-        "Szkoła podstawowa/średnia" : "Primary/secondary school",
-        "Zapisać się na kurs" : "Sign up for a course",
-        "Przetrwać" : "Survive",
-        "Zapisać się na zajęcia/kurs" : "Take up classes/a course",
-        "Ukończyć 17 lat" : "Turn 17",
+    "17_09_mp3_54": {
+        "Pozwolić sobie na coś": "Afford",
+        "Sprzedawca / sprzedawczyni": "Assistant",
+        "Okazja cenowa": "Bargain",
+        "Oddział, filia": "Branch",
+        "Torba na zakupy": "Carrier bag",
+        "Kasjer / kasjerka": "Cashier",
+        "Pobierać (opłatę), liczyć sobie (za coś)": "Charge",
+        "Kasa (w sklepie lub w supermarkecie)": "Checkout",
+        "Konkurencyjne ceny": "Competitive prices",
+        "Wygodny, dogodny": "Convenient",
+        "Klient / klientka": "Customer",
+        "Zniżka": "Discount",
+        "Wystawa sklepowa": "Display",
+        "Przymierzalnia": "Fitting room",
+        "Na sprzedaż": "For sale",
+        "Dobry / zły interes": "Good bad deal",
+        "Zachować paragon": "Keep a receipt",
+        "Ogromne zniżki": "Massive reductions",
+        "W promocji": "On special offer",
+        "Zamówić w internecie": "Order online",
+        "Podwyższyć cenę": "Put up the price",
+        "Kolejka, stać w kolejce": "Queue",
+        "Przecenić z - na": "Reduce from to",
+        "Wyprzedać": "Sell out",
+        "Wózek sklepowy": "Trolley",
     },
-    "kartkowka_16_11_2023": {
-        //Vocabulary 1
-        "Zdobyć stopień naukowy" : "Do a degree",
-        "Mieć dobre wyniki w nauce" : "Do well",
-        "Odrobić pracę domową" : "Do your homework",
-        "Ekonomia" : "Economics",
-        "Inżynieria" : "Engineering",
-        "Oblać egzamin" : "Fail an exam",
-        "Ukończyć szkolę" : "Graduate from school",
-        "Prawo" : "Law",
-        "Literatura" : "Literature",
-        "Media i komunikacja" : "Media and communication",
-        "Egzamin próbny" : "Mock exam",
-        "Zdać egzamin" : "Pass an exam",
-        "Słabe wyniki" : "Poor results",
-        "Szkoła prywatna" : "Private school",
-        "Uniwersytet" : "Public university",
-        "Ponownie przystąpić do egzaminu" : "Retake an exam",
-        "Powtarzać materiał do testu" : "Revise for a test",
-        "Szkoła średnia" : "High school",
-        "Szkoła publiczna" : "Public school",
-        "Przystąpić do egzaminu" : "Take a test",
-        "Prymus (kujon)" : "Top student",
-        "Weterynaria" : "Veterinary science", 
-        //Listening
-        "Rozmawiać z kimś na zmianę w swoim i jego ojczystym języku": "Do a conversation exchange",
-        "Rysować mapy myśli": "Draw mind maps",
-        "Elastyczne godziny nauki": "Flexible study hours",
-        "Wykonywać polecenia": "Follow instructions",
-        "Nauczyć się na pamięć": "Learn by heart",
-        "Słuchać podcastów": "Listen to podcast",
-        "Słowa piosenki": "Lyrisc",
-        "Uczyć się na pamięć": "Memorise",
-        "Nagrywać swój głos": "Record yourself",
-        "Stworzyć grupę osób uczących się wspólnie": "Set up a study group",
-        "Borykać się": "Struggle",
-        "Robić notatki": "Take/make notes",
-        "Używać aplikacji edkacyjnych": "Use educational apps",
-        "Używać karteczek samoprzylepnych": "Use sticky notes",
-        "Oglądać filmiki instruktażowe": "Watch video tutorials",
-        //Grammar 2
-        "Trwać" : "Last",
-        "Poziom" : "Level",
-        "Kurs szybkiego czytania" : "Speed-reading cours",
-        //Use of english
-        "Wyścig" : "Race",
-        "Żałować" : "Regret",
-        "Przebiec maraton / pół maraton" : "Run a marathon/half-marathon",
-        "Trojaczki" : "Triplets",
-        //Writing
-        "Zapytać o coś" : "Enquire abou sth",
-        "Dokonać wpłaty" : "Make a payment",
-        "Uzyskać" : "Obtain",
-        "Wykonć zadanie" : "Perform a task",
-        "Rozwiazać problem" : "Solve a problem",
-        "Kurs przetrwania" : "Survival course",
+    "17_09_mp3_55": {
+        "Kartą / Telefonem / Zegarkiem": "By card phone watch",
+        "Bankomat": "Cashpoint",
+        "Monety": "Coins",
+        "Transakcja bezdotykowa": "Contactless payment",
+        "Karta kredytowa / debetowa": "Credit Debit Card",
+        "Przejść (o transakcji kartą)": "Go through",
+        "Gotówką": "In cash",
+        "Włożyć kartę": "Insert a card",
+        "Wpisać kod PIN": "key in a PIN number",
+        "Drobne": "Loose change",
+        "Zgubić kartę": "Lose a card",
+        "Płatności mobilne": "Mobile payment",
+        "Banknoty": "Notes",
+        "Akceptować płatność kartą": "Accept cards",
+        "Wypłacić pieniądze": "Take money out",
     },
-     "kartkowka_13_12_2023": {
-        // 1
-
-        "Alternatywa (dla czegoś)" : "Alternative (to sth)",
-        "Wymyślić, opracować" : "Come up with",
-        "Stworzyć" : "Create",
-        "Zaprojektować" : "Design",
-        "Opracować" : "Develop",
-        "Urządzenie" : "Device",
-        "Odkrycie" : "Discovery",
-        "Robić eksperymenty" : "Do experiments",
-        "Robić badania" : "Do research",
-        "Elektryczność" : "Electricity",
-        "Wynaleźć" : "Invent",
-        "Wynalezek" : "Invention",
-        "Dioda emitująca światło (LED)" : "Light emitting diode",
-        "Dokonać odkrycia" : "Make a discovery",
-        "Dokonać wynalazku" : "Make an invention",
-        "Penicylina" : "Penicillin",
-        "Zatrucie środowiska" : "Pollution",
-        "Reagować na" : "React to",
-        "Rejestrować" : "Record",
-        "Zredukować" : "Reduce",
-        "Badać" : "research",
-        "Wymazać" : "Rub out",
-        "Naukowiec" : "Scientist",
-        "Wszechświat" : "Universe",
-
-        // 2
-
-        "Wynalazca" : "Inventor",
-        "Zestaw" : "Kit",
-        "Narzędzie" : "Tool",
-        
-        // 3 
-
-        "Zatłoczony" : "Crowded",
-        "Pokaz świateł" : "Light show",
-        "Wystawa naukowa" : "Science exhibition",
-        
-        // 4
-
-        "Długopis kulkowy" : "Ballpoint pen",
-        "Folia bąbelkowa" : "Bubble wrap",
-        "Ładować" : "Charge",
-        "Kuchenka" : "Cooker",
-        "Korektor w płynie" : "Correction fluid",
-        "Uszkodzić" : "Damage",
-        "Choroba" : "Disease",
-        "Wytwarzać energie" : "Generate power",
-        "Upal, gorąco" : "Heat",
-        "Roztopić się" : "Melt",
-        "Kuchenka mikrofalowa" : "Microwave oven",
-        "Ruch" : "Movement",
-        "Podłączyć do prądu" : "Plug in",
-        "Karteczki samoprzylepne" : "Post-it notes",
-        "Wcisnąc guzik" : "Press a button",
-        "Wytwarzać " : "Produce",
-        "Ciągnąć" : "Pull",
-        "Dotrzeć do" : "Reach",
-        "Odgleły" : "Remote",
-        "Badacz" : "Researcher",
-        "Wyczerpać się" : "Run out",
-        "Agrafka" : "Safety pin",
-        "Energia słoneczna" : "Solar energy",
-        "Rozwiązać" : "Solve",
-        "Transportować" : "Transport",
-        "Obracać się" : "Turn",
-        "Szczepionka" : "Vaccine",
-        "Rzep" : "Velcro",
-        "Koło" : "Wheel",
-        "Gwizdek" : "Whistle",
-        "Opracować" : "Work out",
-        
-        // 5
-
-        "Mieć dośtep (do czegoś)" : "Access (sth)",
-        "Przymocować" : "Attach",
-        "Zrobić kopię zapasową" : "Back up",
-        "Dane" : "Date",
+    "17_09_mp3_58": {
+        "Zwrócić coś (do sklepu)": "Take sth back",
+        "Zepsuty": "Broken",
+        "Wymienić coś": "Exchange sth",
+        "Otrzymać zwrot pieniędzy": "Get your money back",
+        "Dziura": "Hole",
+        "Brakujący": "Missing",
+        "Nie pasować / nie działać": "Not fit / Not work",
+        "Zwrot pieniędzy": "Refund",
+        "Rozmawiać z kierownikiem": "Speak to manager",
+        "Plama": "Stain",
     },
-
-        "kartkowka_20_12_2023": {
-
-        // 1
-
-        "Usunąć" : "Delete",
-        "Odłączyć" : "Disconnect",
-        "Sprzęt elektroniczny" : "Electronics",
-        "Sprzęt" : "Equipment",
-        "Elektośmieci" : "E-wase",
-        "Plik" : "File",
-        "Gadżet" : "Gadget",
-        "Pozbyć się" : "Get rid of",
-        "Dysk twardy" : "Hard drive",
-        "Karta pamięci" : "Memory card",
-        "Hasło" : "Password",
-        "Przycisk zasilania" : "Power switch",
-        "Poddać recyklingowi" : "Recycle",
-        "Punkt zbiórki odpadów do recyklingu" : "Recycling point",
-        "Zresetować" : "Reset",
-        "Zapisać" : "Save",
-        "Ustawienia" : "Settings",
-        "Karta SIM" : "SIM card",
-        "Nośnik danych" : "Storage device",
-        "Chmura, dysk w chmure" : "The cloud",
-        "Przenieść" : "Transfer",
-        "Wstawiać zdjęcia" : "Upload photos",
-        "Pamieć USB, pendrive" : "USB flash drive",
-
-        // 2
-
-        "Atrakcyjny" : "Attractive",
-        "Słabo wykonany" : "Badly made",
-        "Prosty w obsłudze" : "Easy to use",
-        "Skończyć (np. gdzieś)" : "End up",
-        "Przyjazdy dla środowiska" : "Environmentally friendly",
-        "Trudny w obsłudze" : "Hard to use",
-        "Szkodić" : "Harm",
-        "Wysokiej jakości" : "High quality",
-        "Niepraktyczny" : "Impractical",
-        "Niedrogi" : "Inexpensive",
-        "Innowacyjny" : "Innovative",
-        "Niskiej jakości" : "Low quality",
-        "Opakowanie" : "Packaging",
-        "Praktyczny" : "Practical",
-        "Niezawodny, solidny" : "Reliable",
-        "Głośnik" : "Speaker",
-        "Nieatrakcyjny" : "Unattractive",
-        "Zawodny" : "Unreliable",
-        "Przydatny, użyteczny" : "Useful",
-        "Nieprzydatny, bezużyteczny" : "Useless",
-        "Dobrze wykonany" : "Well made",
-        "Bezprzewodowy" : "Wireless",
-        
-        // 3
-
-        "Wbudowany" : "Built in",
-        "Podłączyć" : "Connect",
-        "Flesz" : "Flash",
-        "Aparat drukujący zdjęcie" : "Instant camera",
-        "Natychmiast" : "Right away",
-        "Działać" : "Run",
-        "Samorównoważący się" : "Self balancing",
-        "Samoczyszczący" : "Self cleaning",
-        "Wypróbować" : "Try out",
-        "Wodoodporny" : "Waterproof",
+    "17_09_mp3_62": {
+        "Robić co w naszej mocy": "Do your bit",
+        "Być przeznaczonym na cele charytatywne": "Go to charity",
+        "Wyglądać na najlepsze rozwiązanie": "Look for the best way forward",
+        "Złożyć ofertę": "Place the bid",
+        "Zamienić się z czymś z kimś": "Swap sth with sb",
+        "Rozumieć aluzję": "Take the hints",
+        "Wygrać aukcję": "Win an auction",
     },
- "kartkowka_12_03": {
+    "17_09_mp3_63": {
+        "Przekazać, oddać": "Donate to",
+        "Złapać okazję": "Grab a bargain",
+        "Gościć": "Host",
+        "Przegapić okazję": "Miss out on an opportunity",
+        "Prowadzony przez": "Run by",
+        "Ustawić, rozstawiać": "Set up",
+    }
+};
 
-        // 1
-
-        "tablica": "array",
-"redundant array of independent disks": "RAID",
-"awaria": "failure",
-"CDR": "Compact Disc Recordable",
-"CD-RW": "Compact Disc ReWritable",
-"USB": "Universal serial bus",
-"pamięć flash": "flash drive",
-"taśma magnetyczna": "magnetic tape",
-"kompresja danych": "data compression",
-"pojemność pamięci": "memory storage density",
-"SATA": "Serial Advanced Technology Attachment",
-
-        // 2
-
-        "cyfrowa kamera": "digital camera",
-"CCD": "Charge Coupled Device",
-"megapiksel": "megapixels",
-"zoom optyczny": "optical zoom",
-"zoom cyfrowy": "digital zoom",
-"pamięć flash": "flash memory",
-"drukarka atramentowa": "inkjet printers",
-"drukarka laserowa": "laser printers",
-"kalibracja": "calibration",
-"DPI": "dots per inch",
-"dostosowanie przezroczystości": "transparency adapter",
-"automatyczny podajnik": "automatic document feeder",
-        
-        // 3
-
-"MP3": "multimedia player",
-"decode AAC": "odkodowywać Advanced Audio Coding",
-"bitrate": "przepustowość",
-"freeze": "zawiesić",
-"driver": "nośnik / sterownik",
-"uploaded": "przesłać",
-"dock": "stacja",
-"gigabyte": "gigabyte",
-"capacity": "pojemność",
-    },
- "kartkowka_13_03": {
-"mieć lęk wysokości" : "be afraid of heights",
-"kolejka linowa" : "cable car",
-"kanadyjska (łódź)" : "canoe",
-"strefa komfortu" : "comfort zone",
-"odjeżdżać" : "depart",
-"cel podróży" : "destination",
-"zwiedzać, eksplorować" : "explore",
-"opłata za przejazd" : "fare",
-"prom" : "ferry",
-"poruszać się (po mieście)" : "get around",
-"wynająć" : "hire",
-"balon na ogrzane powietrze" : "hot air balloon",
-"stać w kolejce" : "queue",
-"bilet powrotny" : "return ticket",
-"riksza" : "rickshaw",
-"przejazd" : "ride",
-"skała" : "rock",
-"płynąć (statkiem, łodzią)" : "sail",
-"hulajnoga" : "scooter",
-"wyruszyć" : "set off",
-"bilet w jedną stronę" : "single ticket",
-"granica państwa" : "state border",
-"objechać, zwiedzić (coś)" : "take a tour",
-"wybrać się na wycieczkę" : "take a trip",
-"atrakcja turystyczna" : "tourist site",
-"korek uliczny" : "traffic jam",
-"pojazd" : "vehicle",
-"wybrzeże" : "coast",
-"prognoza" : "forecast",
-"podwieźć kogoś" : "give sb a lift",
-"rezerwować" : "book",
-"bankomat" : "cash machine",
-"zniżka" : "discount",
-"z wyprzedzeniem" : "in advance",
-"bilet dzienny" : "one-day pass",
-"płacić gotówka/kartą" : "pay in cash/by card",
-"metro w Londynie" : "the Tube",
-"bilet okresowy" : "travel card",
-"ważny" : "valid",
-"zarządzać (czymś)" : "be in charge",
-"wspólnota" : "community",
-"niemądry" : "foolish",
-"zgubić się" : "get lost",
-"edukacja domowa" : "homeschooling",
-"ludzie, którzy myślą podobnie" : "like minded people",
-"miejsca, które trzeba zobaczyć" : "must see places",
-"wyróżniający się" : "outstanding",
-"spakować mało rzeczy" : "pack light",
-"planować z wyprzedzeniem" : "plan ahead",
-"wolny czas" : "spare time",
-"polecieć samolotem" : "take a flight",
-"bogata kultura" : "vibrant culture",
-"zakwaterowanie" : "accommodation",
-"wczasy all inclusive" : "all-inclusive holiday",
-"B&B" : "pensjonat",
-"wakacje z plecakiem" : "backpacking holiday",
-"wakacje na plaży" : "beach holiday",
-"kemping" : "campsite",
-"domek letniskowy" : "chalet",
-"kilkudniowy wypad do dużego miasta" : "city break",
-"rejs" : "cruise",
-"dom gościnny" : "guest house",
-  },
- "kartkowka_08_04": {
-"ID dzwoniącego": "Caller ID",
-"bateria litowo-jonowa": "Lithium-ion battery",
-"telefon komórkowy": "Cell phone",
-"ekran dotykowy": "Touchscreen",
-"połączenie oczekujące": "Call waiting",
-"poczta głosowa": "Voicemail",
-"wiadomości tekstowe": "Text messages",
-"aktywacja głosowa": "Voice activation",
-"dzwonki": "Ringtones",
-"sieć 5G": "5G network",
-"aplikacje": "Apps",
-"natychmiastowa wiadomość": "Instant message",
-"spam": "Spam",
-"skanowanie": "Scanning",
-"EPC": "Electronic product code",
-"UPC": "Universal product code",
-"kod kreskowy": "Barcode",
-"plan danych": "Data plan",
-"PDA": "Personal digital assistant",
-"dostać potwierdzenie": "Get a confirmation",
-"dołączyć": "Attach",
-"przeprosić za": "Apologize for",
-"wysyłka": "Shipment",
-"sieć społecznościowa": "Social networking",
-"nick": "Handle",
-"reklama": "Advertising",
-"aktualności": "News feed",
-"MMORPG": "Massively Multiplayer Online Role Playing Game",
-  },
-      "kartkowka_20_03": {
-          "przewodnik": "guidebook",
-"wędrówka po górach": "hiking",
-"wzgórze": "hill",
-"hostel": "hostel",
-"wczasy zorganizowane": "package holiday",
-"zwiedzanie": "sightseeing",
-"śpiwór": "sleeping bag",
-"opalanie": "sunbathing",
-"krem z filtrem": "sunscreen",
-"namiot": "tent",
-"park rozrywki": "themepark",
-"latarka": "torch",
-"podróż": "tour",
-"podróżować samolotem": "travel by air",
-"piesze wędrówki, trekking": "trekking",
-"niezwykły": "amazing",
-"bardzo stary": "ancient",
-"okropny": "awful",
-"pobić rekord świata": "beat the world record",
-"jechać na rowerze": "cycle",
-"pyszny": "delicious",
-"zachwycony": "delighted",
-"wykończony": "exhausted",
-"lodowaty": "freezing",
-"ogromny": "huge",
-"pamiętny": "memorable",
-"malutki": "tiny",
-"niezapomniany": "unforgettable",
-"badania kontrolne": "check-up",
-"współzawodniczyć": "compete",
-"mandat": "fine",
-"kask": "helmet",
-"klimatyzacja": "air conditioning",
-"przeprosiny": "apologe",
-"odwołany": "cancelled",
-"odprawić się": "check in",
-"autokar": "coach",
-"rekompensata": "compensation",
-"złożyć skargę (na coś)": "complain",
-"zażalenie": "complaint",
-"warunki": "conditions",
-"opóźniony": "delayed",
-"odlot": "departure",
-"rozczarowanie": "disappointed",
-"zatrucie pokarmowe": "food poisoning",
-"doznać poparzenia słonecznego": "get sunburnt",
-"wylądować": "land",
-"zgubiony bagaż": "lost luggage",
-"spełniać oczekiwania": "meet expectations",
-"oburzający": "outrageous",
-"odebrać": "pick up",
-"słaba obsługa": "poor service",
-"zwrot pieniędzy": "refund",
-"prośba": "request",
-"ośrodek wczasowy": "resort",
-"lot powrotny": "return flight",
-"zaplanowany": "scheduled",
-"personel": "staff",
-"wystartować": "take off",
-"przenieść": "transfer",
-"biuro podróży": "travel agency",
-"nie do zaakceptowania": "unacceptable",
-"kanał": "channel",
-"kolizja": "collision",
-"odwaga": "courage",
-"ubezpieczenie": "insurance",
-    },
-    "kartkowka_15_10": {
-        // VOCABULARY 1
-"Abstrakcyjny" : "Abstract",
-"Dodawać filtry" : "Add filters",
-"Odważny, krzykliwy" : "Bold",
-"Złożony" : "Complex",
-"Niejasny" : "Confusing",
-"Przygnębiający" : "Depressing",
-"Okropny, straszny" : "Dreadful",
-"Edytować, przerabiać" : "Edit",
-"Pełen emocji" : "Emotional",
-"Stać się hitem internetu" : "Go viral",
-"Wspaniały" : "Gorgeous",
-"Pomysłowy" : "Imaginative",
-"Robiący wrażenie" : "Impressive",
-"Ostry" : "In focus",
-"Arcydzieło" : "Masterpiece",
-"Nowoczesny" : "Modern",
-"Wzruszający" : "Moving",
-"Tajemniczy" : "Mysterious",
-"Nieostry" : "Out of focus",
-"Wybitny" : "Outstanding",
-"Mocny" : "Powerful",
-"Przerażający" : "Scary",
-"Selfie" : "Selfie",
-"Kijek do selfie" : "Selfie stick",
-"Autoportret" : "Self portrait",
-"Udostępniać" : "Share",
-"Wyjątkowy" : "Unique",
-"Dzieło sztuki" : "Work of art",
-// GRAMMAR 1
-"Ogłosić" : "Announce",
-"Ratusz" : "City hall",
-"Wystawić" : "Display",
-"Przeszkadzać" : "Disturb",
-"Wystawa" : "Exhibition",
-"Teleobiektyw" : "Telephoto lens",
-"Dzika przyroda" : "Wildlife",
-// SPEAKING
-"Pracownia artystyczna" : "Art studio",
-"Radosny" : "Joyful",
-"Krajobraz" : "Landscape",
-"Pędzel" : "Paintbrush",
-// READING
-"Tło" : "Background",
-"Schwytać" : "Capture",
-"Zbliżenie" : "Close-up",
-"Kompozycja" : "Composition",
-"Prawo autorskie" : "Copyright",
-"Batalia sądowa" : "Court battle",
-"Sława" : "Fame",
-"Skupić się" : "Focus",
-"Oświetlenie" : "Lighting",
-"Nacisnąć spust migawki" : "Press the shutter",
-"Osiągnąć porozumienie" : "Reach an agreement",
-"Zaaranżować sesję zdjęciową" : "Set up a photo shoot",
-"Gatunek" : "Species",
-"Traktowanie" : "Treatment",
-"Statyw" : "Tripod",
-"Fotograf dzikiej natury" : "Wildlife photographer",
-// VOCABULARY 2
-"Grać" : "Act",
-"Aktorstwo" : "Acting",
-"Widownia" : "Audience",
-"Przesłuchanie" : "Audition",
-"Kompozytor" : "Composer",
-"Kostium" : "Costume",
-"Reżyser" : "Director",
-"Szkoła aktorska" : "Drama school",
-"Koncert" : "Gig",
-"Przerwa" : "Interval"
-    },
-        "kartkowka_23_10": {
-        // VOCABULARY 2
-        "Publiczność na żywo" : "Live audience",
-        "Główna rola" : "Main part",
-        "Orkiestra" : "Orchestra",
-        "Sztuka" : "Play",
-        "Grać na instrumencie" : "Play an instrument",
-        "Wystawić sztukę / przedstawienie" : "Put on play/performance",
-        "Recenzja" : "Review",
-        "Być super, wymiatać" : "Rock",
-        "Zespół rockowy" : "Rock band",
-        "Szkolna aula" : "School hall",
-        "Śpiewać w zespole" : "Sing in a band",
-        "Autor piosenek" : "Songwriter",
-        "Sztuka widowiskowa" : "The performing arts",
-        "Zespół teatralny" : "Theatre group",
-        // LISTENING
-        "Architektura" : "Architecture",
-        "Projektować, projekt" : "Design",
-        "Projektant" : "Designer",
-        "Rysunek" : "Drawing",
-        "Projektowanie mody" : "Fashion design",
-        "Filmowiec" : "Film maker",
-        "Projektowanie graficzne" : "Graphic design",
-        "Instalacja" : "Installation art",
-        "Malować" : "Paint",
-        "Malarz" : "Painter",
-        "Malarstwo" : "Painting",
-        "Fotografować" : "Photograph",
-        "Fotograf" : "Photographer",
-        "Fotografia" : "Photography",
-        "Sztycharz" : "Printmaker",
-        "Rzeźbic" : "Sculpt",
-        "Rzeźbiarz" : "Sculptor",
-        "Rzeźba" : "Sculpture",
-        "Sztuki wizualne" : "Visual arts",
-        // GRAMMAR 2
-        "Przypadkowy" : "Accidental",
-        "Potrącić" : "Bump",
-        "Szatnia" : "Cloakroom",
-        "Rozpraszać" : "Distract",
-        "Eksponat" : "Exhibit",
-        "Przestrzegać zasad" : "Observe/follow the rules",
-        // WRITING
-        "Niestamowity" : "Amazing",
-        "Irytujący" : "Annoying",
-        "Współczesny" : "Contemporary",
-        "Miłośnik sztuki" : "Culture vulture",
-        "Zachęcony" : "Encouraged",
-        "Wyjątkowy" : "Exceptional",
-        "Zaintrygowany" : "Intrigued",
-        "Magiczny" : "Magical",
-        "Zrobić wrażenie" : "Make an impression",
-        "Staromodny" : "Old fashioned",
-        "Odstraszać kogoś" : "Put sb off",
-        "Zrecenzować" : "Review",
-        "Zachwycający" : "Stunning",
-    },
-
-    "kartkowka_30_10" : {
-
-        // 1
-
-"GIS" : "Geographic Information System",
-"Wzory przestrzenne" : "Spatial Patterns",
-"Współzależne" : "Correlated",
-"Szerokość geograficzna" : "Latitude",
-"Dlugość geograficzna" : "Longitude",
-"Warstwy" : "Layers",
-"Zbieranie danych" : "Data capture",
-"Zdalne wykrywanie" : "Remote sensing",
-"Meta dane" : "Metadata",
-"Siatki" : "Grids",
-"Współrzędne" : "Coordinates",
-
-// 2
-
-"Wyciągi bankowe" : "Electronic statements",
-"Aktywyność konta" : "Account activity",
-"Elektroniczny przelew" : "Electronic funds transfer",
-"Zapłacenie rachunku" : "Bill pay",
-"Oszustwa bankowe" : "Bank fraud",
-"Kradzież tożsamości" : "Identity theft",
-"PIN" : "Personal Identification Number",
-"Klucz do strony" : "Site key",
-"SSL connection" : "Secure Socket Layer",
-"Blokady" : "Blackouts",
-"Alerty dotyczące konta" : "Account alerts",
-
-// 3
-"Elektroniczne książki" : "Ebooks",
-"Dziennik elektroniczny" : "Ejournals",
-"Operatory" : "Boolean operators",
-"Zdalny dostęp" : "Remote acces",
-"Licencja na strone" : "Site license",
-"VPN" : "Virtual Private Network",
-"Ograniczenie licencji" : "License restriction",
-"Szyfrowanie" : "Encryption",
-"Narrow" : "Wąski",
-    },
-        "25_11_2024": {
-        // Vocabulary 1
-        "Dokładny" : "Accurate",
-        "Artykuł" : "Article",
-        "Wiadomości z ostatniej chwili" : "Breaking news",
-        "Media audiowizualne" : "Broadcast media",
-        "Zdezorientowany" : "Confused",
-        "Dziennik" : "Daily newspaper",
-        "Media elektroniczne" : "Digital media",
-        "Strona tytułowa" : "Front page",
-        "Ustalać i weryfikować fakty" : "Get the facts straight",
-        "Czerpać wiadomości z/od" : "Get news from",
-        "Nagłówek" : "Headline",
-        "Wywiad" : "Interview",
-        "Czasopismo" : "Magazine",
-        "Większość" : "Majority",
-        "Serwis informacyjny, agencja informacyjna" : "News organisation",
-        "Regularnie" : "On a regular basis",
-        "Infuencer" : "Online influencer",
-        "Prasa drukowana" : "Print media",
-        "Aktualizować informacje" : "Provide updates",
-        "Źródło informacji" : "Source of information",
-        "Brukowiec, tabloid" : "Tabloid",
-        "Odróżniać fakty od fikcji" : "Tell fact from fiction",
-        "Prasa" : "The press",
-        "(Nie) Godny zaufania" : "unreliable",
-        "Informacja wizualna" : "Visual info",
-        // Grammar 1
-        "Prowadzić" : "Host",
-        "Rzadkość" : "Rarity",
-        "Ufać" : "Trust",
-        // Speaking
-        "Podobać się komuś" : "Appeal to sb",
-        "Przyciągać" : "Attract",
-        "Wydać, wypuścić" : "Release",
-        "Odpowiedni" : "Suitable",
-        // Reading
-        "Reklamować" : "Advertise",
-        "Reklama" : "Ad",
-        "Agencja reklamowa" : "Advertising agency",
-        "Kampania reklamowa" : "Advertising campaign",
-        "Technika reklamowa" : "Advertising technique",
-        "Marka" : "Brand",
-        "Przerwa na reklamy" : "Commercial break",
-        "Konsument" : "Consumer",
-        "Statystyki rozwodów" : "Divorce rates",
-        "Obserwujący" : "Follower",
-        "Mieć znaczenie" : "Matter",
-        "Rówieśnicy" : "Peers",
-        "Promować produkt" : "Promote a product",
-        "Kampania promocyjna" : "Promotional campaign",
-        "Prototyp" : "Prototype",
-        "Poczucie przynależności" : "Sense of belonging",
-        "Usługa" : "Service",
-        "Oferta specjalna" : "Special offer",
-        "Sztywny, spięty" : "Uptight",
-        // Vocabulary 2
-        "Nakładać krem do twarzy/błyszczyk" : "Apply face cream/lip gloss",
-        "Łysy" : "Bald",
-        "Broda" : "Beard",
-        "Niebieskooki" : "Blue eyed",
-     },
-    "kartkowka_02_12": {
-        // Vocubulary 2
-        "Aparat ortodontyczny" : "Braces",
-        "Czesać włosy" : "Brush your hair",
-        "Budowa ciała" : "Build (n)",
-        "Policzek" : "Cheek",
-        "Broda" : "Chin",
-        "Kręcone (włosy)" : "Curly",
-        "Obcinać paznakocie u rąk/u nóg" : "Cut your fingernails/toenails",
-        "Farbowane włosy" : "Dyed hair",
-        "Brwi" : "Eyebrows",
-        "Rzęsy" : "Eyelashes",
-        "Zartost" : "Facial hair",
-        "Jasna cera" : "Fair skin",
-        "Gruby" : "Fat",
-        "Czoło" : "Forehead",
-        "Piegi" : "Freckles",
-        "Rude włosy" : "Ginger hair",
-        "Mocny makijaż" : "Heavy make up",
-        "Wąsy" : "Moustache",
-        "Muskularny" : "Muscular",
-        "Średniego wzrostu" : "Of medium height",
-        "Z nadwagą" : "Overweight",
-        "Blady" : "Pale",
-        "Wygląd zewnętrzny" : "Physical appearance",
-        "Pulchny" : "Plump",
-        "Nakładać / nosić makijaż" : "Put on/wear make up",
-        "Przypominać" : "Resemble",
-        "Okrągły" : "Round",
-        "Golić (się)" : "Shave",
-        "Chudy" : "Skinny",
-        "Szczupły" : "Slim",
-        "Sterczący" : "Spiky",
-        "Wysportowany" : "Sporty",
-        "Kwadratowy" : "Square",
-        "Prosty" : "Straight",
-        "Opalony" : "Tanned",
-        "Cienkie usta" : "Thin lips",
-        "Używać dezodorantu" : "Use deodorant",
-        "Nosić biżuterię" : "Wear jewellery",
-        "Szeroki uśmiech" : "Wide smile",
-        // Listening
-        "Dodać" : "Add",
-        "Przyznać" : "Admit",
-        "Zgodzić się" : "Agree",
-        "Odpowiedzieć" : "Answer",
-        "Twierdzić" : "Claim",
-        "Skomentować" : "Comment",
-        "Skarżyć się" : "Complain",
-        "Potwierdzić" : "Confirm",
-        "Wybrać numer" : "Dial a number",
-        "Wytłumaczyć" : "Explain",
-        "Poinformować" : "Inform",
-        "Przypomnieć komuś" : "Remind sb",
-        "Powiedzieć (1)" : "Say",
-        "Powiedzieć (2)" : "Tell",
-        "Agresywny" : "Violent",
-        // Writing
-        "Niezręczny, dziwny" : "Awkward",
-        "Bystry" : "Bright",
-        "Rozczarowujący" : "Disappointing",
-        "Emocjonalny" : "Emotional",
-        "Wyjątkowy" : "Exceptional",
-        "Dojrzały" : "Mature",
-        "Skromny" : "Modest",
-        "Otwarty" : "Open",
-        "Zwyczajny" : "Ordinary",
-        "Uprzejmy" : "Polite",
-        "Profesjonalny" : "Professional",
-        "Dumny" : "Proud",
-        "Nachalny" : "Pushy",
-        "Niegrzeczny" : "Rude",
-        "Samolubny" : "Selfish",
-        "Wydawać się komuś (jakimś)" : "Strike sb as",
-        "Próżny" : "Vain",
-        "Miejsce imprezy" : "Venue",
-        "Dziwny" : "Weird",
-     },
-         "kartkowka_04_12": {
-        // 13 Robotics
-        "Robotyka" : "Robotics",
-        "Autonomiczny" : "Autonomous",
-        "Robot seryjny, rotacyjny" : "Serial Robot",
-        "Złączenia" : "Joints",
-        "Chwytak" : "End-effector",
-        "Pilot" : "Pendant",
-        "Urządzenie uruchamiające" : "Actuators",
-        "Urządzenie sterujące" : "Enabling device",
-        "Moc napędów" : "Drive power",
-        //"Współrzędne" : "Equality constraint",
-        // 14 Electronic Publishing
-        "Pobrać" : "Download",
-        "Dostosować do ekranu" : "Reflow",
-        "Wyświetlić z aktywną matrycą" : "Active matrix display",
-        "Grafika bitmapowa" : "Bitmapped graphics",
-        "Wymagania systemu" : "System requirements",
-        "Odczytnik" : "PDF readers",
-        "PDF" : "Portable Document Format",
-        "Proces rozdzielczości ekranów" : "Sub - pixel rendering",
-        // 15 Artificial Intelligence
-        "Heurystyka" : "Heuristics",
-        "Kognitywny, poznawczy" : "Cognitive",
-        "Naukowcy" : "Scientists",
-        "Oparte na przypadkach" : "Case based",
-        "Rozumowanie oparte na modelu" : "Model based reasoning",
-        "Algorytmy" : "Algorithms",
-        "Uczenie maszynowe" : "Machine learning",
-        "Rozpoznawanie wzorców" : "Pattern recognition",
-        "Wizja komputerowa" : "Computer vision",
-     },
-    "kartkowka_18_03": {
-        "Przeciętny" : "Average",
-"Wyzwanie" : "Challenge",
-"Zmienić ustawienia prywatności" : "Change your privacy settings",
-"Znak (na komputerze)" : "Character",
-"Sprawdzać (w telefonie)" : "Check your phone",
-"Usunąć post" : "Delete a post",
-"Pobierać aplikacje" : "Download apps",
-"Dział wsparcia technicznego" : "Help desk",
-"Zainstalować oprogramowanie antywirusowe" : "Install antivirus software",
-"Komunikator internetowy, czat" : "Instant messaging",
-"Podły" : "Mean",
-"Powiadomienie" : "Notification",
-"Dodać komentarz" : "Post a comment",
-"Nieostrożny" : "Reckless",
-"Zgłosić problem" : "Report a problem",
-"Wysyłać wiadomości na czacie/SMS-y" : "Send instant messages/texts",
-"Ustawić mocne hasło" : "Set a strong password",
-"Udostępniać informacje osobiste" : "Share personal information",
-"Konto na portalach społecznościowych" : "Social media accounts",
-"Portal społecznościowy" : "Social networking site",
-"Oznaczać znajomych" : "Tag your friends",
-"Aktualizacja" : "Update",
-"Aktualizować profil" : "Update your profile",
-"Załadować zdjęcie/filmik" : "Upload a photo/video",
-"Na całym świecie" : "Worldwide",
-"Zakazany" : "Forbidden",
-"Zalogować się" : "Log in",
-"Słaba bateria" : "Low battery",
-"Zły" : "Angry",
-"Poirytowany, rozdrażniony" : "Annoyed",
-"Wściekły (na)" : "Mad at",
-"Zdenerwowany" : "Nervous",
-"Usunąć ze znajomych" : "Unfriend",
-"Smutny" : "Upset",
-"Zdumiewający" : "Astonishing",
-"Dostępny" : "Available",
-"Prześladowca, prześladować" : "Bully",
-"Prześladowanie" : "Bullying",
-"Duża litera" : "Capital letter",
-"Twarz w twarz" : "Face to face",
-"Geoznakowanie" : "Geotagging",
-"Przekręt internetowy" : "Internet scam",
-"Mała litera" : "Lower case letter",
-"Wzór" : "Pattern",
-"Blokada ekranu" : "Screen lock",
-"Bezpieczny" : "Secure",
-"Kusić" : "Tempt",
-"Zaniepokojony" : "Upset",
-"Znęcanie się" : "Abuse",
-"Sprawca przemocy" : "Abuser",
-"Znieważający kogoś" : "Abusive",
-"Osoba uzależniona" : "Addict",
-"Uzależniony" : "Addicted",
-"Uzależnienie" : "Addiction",
-    },
-    "kartkowka_20_03": {
-        // 1
-"PC" : "Personal Computer",
-"Przygotawanie do druku" : "Prepress",
-"Typografia" : "Typography",
-"Doposować kolory" : "Color matching",
-"W tym czasie" : "Meanwhile",
-"Przystosować" : "Adaptability",
-"Podatny" : "Susceptible",
-"Szybkość przetwarzania" : "Processing speed",
-"Dostosowywanie" : "Customize",
-"Podsystemy video" : "Video subsystems",
-// 2
-"Otwarte źródło" : "Open source",
-"Licencja na oprogramowanie" : "Software license",
-"Dystrybucja Linux" : "Linux distributions",
-"Polecenia" : "Command lines",
-"TCP" : "Transmission Control Protocol",
-"IP" : "Internet Protocol",
-"Sprzedawca" : "Vendors",
-// 3
-"CAD" : "Computer Aided Design",
-"Program" : "Applets",
-"Etykieta" : "Anchors",
-"Elektroniczna tablica ogłoszeń" : "Electronic bulletin board",
-"CBT" : "Computer based training",
-"FAQs" : "Frequently Asked Questions",
-"MPEG" : "Moving Picture Experts Group",
-"Niezawodność" : "Reliability",
-"Nacisk na coś" : "Emphasis",
-"Zagracać" : "Cluttering up",
-"Wymagania" : "Requirements",
-// 4
-"CPC" : "Cost Per Click",
-"CPM" : "Cost Per Mile",
-"Targetowanie okolicy" : "Geo targetting",
-"GIF" : "Graphics Interchange Format",
-"Klikalność" : "Click trough rate",
-"Statystyki klilknięć" : "Click tracking",
-"Nad zakładką" : "Above the fold",
-"Zlecenie" : "Commissions",
-"Kampania" : "Campaign",
-"Częstotliwość" : "Frequency capping",
-"Zawiesić" : "Hang",
-"Nadmierna ekspozycja" : "Overexposure",
-"Szargać" : "Tarnishing",
-"Uzyskiwać" : "Elicit",
-    },
-        "kartkowka_25_03": {
-            "Uzależniający" : "Addictive",
-"Złość" : "Anger",
-"Niepokój, lęk" : "Anxiety",
-"Dolegliwość" : "Condition",
-"Cyberprzemoc" : "Cyberbullying",
-"Zaburzenie" : "Disorder",
-"FOMO, strach przed wykluczeniem" : "FOMO",
-"Uzależnić się" : "Get addicted",
-"Obrażliwa wiadomość" : "Hurtful message",
-"Obrazić" : "Insult",
-"Przegapić coś" : "Miss out on sth",
-"Znęcanie się w Internecie" : "Online abuse",
-"Przezwyciężyć" : "Overcome",
-"Szukać pomocy" : "Seek help",
-"Przeciwstawić się komuś" : "Stand up to sb",
-"Stresująca sytuacja" : "Stressful situation",
-"Terapia" : "Therapy",
-"Groźba" : "Threat",
-"Niezdolny do budowania relacji" : "Unable to build relationships",
-"Ofiara" : "Victim",
-"Zrelaksować się, wyluzować" : "Chill out",
-"Wychodzić z" : "Hang out with",
-"Wylogować się" : "Log off",
-"Spotkać się z" : "Meet up with",
-"Wylogować się" : "Sign out",
-"Gapić się (na coś)" : "Stare (at sth)",
-"Wyłączyć (się)" : "Switch off",
-"Podjąć, zacząć (uprawiać sport)" : "Take up",
-"Nieprzyjemny" : "Unpleasant",
-"Robić trening, trenować" : "Work out",
-"Łamać prawo" : "Break the law",
-"Więzać się z ryzykiem" : "Carry a risk",
-"Rozproszenie uwagi" : "Distraction",
-"Zrobić komuś przysługę" : "Do sb a favour",
-"Przesadzać" : "Exaggerate",
-"Ręczny" : "Hand-held",
-"Zestaw głośnomówiący" : "Hands-free set",
-"Trzymać kciuki" : "Keep your fingers crossed",
-"Skonfigurować" : "Set up",
-"Odebrać telefon" : "Take a call",
-"Wziąć na siebie odpowiedzialność" : "Take on a responsibility",
-"Być świadkiem (czegoś)" : "Witness (sth)"
-        },
-    "kart_15_05_2023": {
-        // 1
-"Automatyzacja" : "Automation",
-"CAM" : "Computer Aided Manufacturing",
-"Systemy wbudowane": "Embedded systems",
-"Układy scalone" : "Integrated circuits",
-"Sieć Ethernet" : "Ethernet network",
-"Enkodery (kodery)" : "Encoders",
-"System otwarty": "Open system",
-"Nadmiarowość" : "Redundancy",
-"Opóźnienie" : "Latency",
-"Odporny na błędy" : "Fault tolerant",
-"Odwrócenia priorytetów" : "Priority inversions",
-// 2
-"Telepraca": "Telecommuting",
-"Oparte na sieci": "Web based",
-"Centralizować" : "Centralize",
-"Oznaczenie kolorystyczne" : "Color coding",
-"Panel główny" : "Dashboard",
-"Galeria" : "Gallery",
-"Zmieniać, przełączać": "Toggle",
-"Tablica z ogłoszeniami" : "Message board",
-"Wycieczki": "Tours",
-// 3
-"Komputer główny" : "Host computers", 
-"Podszywać się" : "Piggybacking", 
-"Zalogować się" : "Logged in", 
-"Wirusy nadpisujące" : "Overwriting viruses", 
-"Wirusy rezydentne" : "Resident viruses",
-"Osadzić" : "Imbed", 
-"Rezydentne rozszerzenia" : "Resident extensions", 
-"Replikacja" : "Replicate", 
-"Infekować" : "Infect", 
-"Umieszczać wirusy" : "Plant viruses", 
-"Unieruchomić" : "Disable", 
-// 4
-"Skanowanie kart" : "Card scanning", 
-"Złośliwe oprogramowanie" : "Malware", 
-"Program szpiegujący" : "Spyware", 
-"Robaki" : "Worms", 
-"Podszywanie się" : "Phishing", 
-"Podszywanie się pod kogoś przez telefon" : "Pretexting", 
-"Przekierowanie na fałszywe strony" : "Pharming", 
-"Kradzież tożsamości" : "Identity theft", 
-"Oszustwo" : "Fraud", 
-"Aktywa" : "Assets", 
-"Niechciany" : "Unsolicited", 
-    },
-    "kart_15_05_2023_tem_1": {
-        "Automatyzacja" : "Automation",
-"CAM" : "Computer Aided Manufacturing",
-"Systemy wbudowane": "Embedded systems",
-"Układy scalone" : "Integrated circuits",
-"Sieć Ethernet" : "Ethernet network",
-"Enkodery (kodery)" : "Encoders",
-"System otwarty": "Open system",
-"Nadmiarowość" : "Redundancy",
-"Opóźnienie" : "Latency",
-"Odporny na błędy" : "Fault tolerant",
-"Odwrócenia priorytetów" : "Priority inversions",
-    },
-        "kart_15_05_2023_tem_2": {
-"Telepraca": "Telecommuting",
-"Oparte na sieci": "Web based",
-"Centralizować" : "Centralize",
-"Oznaczenie kolorystyczne" : "Color coding",
-"Panel główny" : "Dashboard",
-"Galeria" : "Gallery",
-"Zmieniać, przełączać": "Toggle",
-"Tablica z ogłoszeniami" : "Message board",
-"Wycieczki": "Tours",
-    },
-            "kart_15_05_2023_tem_3": {
-"Komputer główny" : "Host computers", 
-"Podszywać się" : "Piggybacking", 
-"Zalogować się" : "Logged in", 
-"Wirusy nadpisujące" : "Overwriting viruses", 
-"Wirusy rezydentne" : "Resident viruses",
-"Osadzić" : "Imbed", 
-"Rezydentne rozszerzenia" : "Resident extensions", 
-"Replikacja" : "Replicate", 
-"Infekować" : "Infect", 
-"Umieszczać wirusy" : "Plant viruses", 
-"Unieruchomić" : "Disable", 
-    },
-                "kart_15_05_2023_tem_4": {
-"Skanowanie kart" : "Card scanning", 
-"Złośliwe oprogramowanie" : "Malware", 
-"Program szpiegujący" : "Spyware", 
-"Robaki" : "Worms", 
-"Podszywanie się" : "Phishing", 
-"Podszywanie się pod kogoś przez telefon" : "Pretexting", 
-"Przekierowanie na fałszywe strony" : "Pharming", 
-"Kradzież tożsamości" : "Identity theft", 
-"Oszustwo" : "Fraud", 
-"Aktywa" : "Assets", 
-"Niechciany" : "Unsolicited", 
-    },
-    "ciezkie" : {
-        "Systemy wbudowane": "Embedded systems",
-"Układy scalone" : "Integrated circuits",
-"Nadmiarowość" : "Redundancy",
-"Opóźnienie" : "Latency",
-"Odporny na błędy" : "Fault tolerant",
-"Odwrócenia priorytetów" : "Priority inversions",
-"Podszywać się" : "Piggybacking", 
-"Wirusy nadpisujące" : "Overwriting viruses", 
-"Wirusy rezydentne" : "Resident viruses",
-"Osadzić" : "Imbed", 
-"Rezydentne rozszerzenia" : "Resident extensions", 
-"Replikacja" : "Replicate", 
-"Złośliwe oprogramowanie" : "Malware", 
-"Program szpiegujący" : "Spyware", 
-"Podszywanie się" : "Phishing", 
-"Przekierowanie na fałszywe strony" : "Pharming", 
-"Niechciany" : "Unsolicited", 
-    },
-    "kart_2_10": {
-        "Powstać, pojawić się": "arise arose arisen",
-"Obudzić się": "awake awoke awoken",
-"Być": "be was/were been",
-"Rodzić, znosić": "bear bore born",
-"Pokonać, bić": "beat beat beaten",
-"Stać się": "become became become",
-"Zacząć": "begin began begun",
-"Założyć się": "bet bet bet",
-"Związać": "bind bound bound",
-"Ugryźć": "bite bit bitten",
-"Krwawić": "bleed bled bled",
-"Wiać, dmuchać": "blow blew blown",
-"Złamać, zepsuć": "break broke broken",
-"Hodować": "breed bred bred",
-"Przynieść": "bring brought brought",
-"Nadawać, transmitować": "broadcast broadcast broadcast",
-"Budować": "build built built",
-"Spalić": "burn burned burned",
-"Kupować": "buy bought bought",
-"Rzucać": "cast cast cast",
-"Złapać": "catch caught caught",
-"Wybrać": "choose chose chosen",
-"Uczepić się": "cling clung clung",
-"Przyjść": "come came come",
-"Kosztować": "cost cost cost",
-"Ciąć": "cut cut cut",
-"Handlować, zajmować się": "deal dealt dealt",
-"Kopać": "dig dug dug",
-"Zrobić": "do did done",
-"Rysować": "draw drew drawn",
-"Marzyć": "dream dreamed dreamed",
-"Pić": "drink drank drunk",
-"Prowadzić (samochód)": "drive drove driven",
-"Jeść": "eat ate eaten",
-"Upaść": "fall fell fallen",
-"Karmić": "feed fed fed",
-"Czuć": "feel felt felt",
-"Walczyć": "fight fought fought",
-"Znaleźć": "find found found",
-"Lecieć": "fly flew flown",
-"Zabronić / Zakazać": "forbid forbade forbidden",
-"Zapomnieć": "forget forgot forgotten",
-"Wybaczyć": "forgive forgave forgiven",
-"Zamarzać": "freeze froze frozen",
-"Pasować": "fit fit fit",
-"Prognozować": "forecast forecast forecast",
-"Dostać": "get got got",
-"Dać": "give gave given",
-"Iść": "go went gone",
-
-    },
-      "1_kolumna": {
-"Rozwiedziony": "divorced",
-"Kobieta": "female",
-"Imię": "first name",
-"Płeć": "gender",
-"Mężczyzna": "male",
-"Stan cywilny": "marital status",
-"Żonaty, zamężna": "married",
-"Drugie imię": "middle name",
-"Zawód": "occupation",
-"Nazwisko": "surname",
-"Owdowiały": "widowed",
-"Starszy, starszawy": "elderly",
-"Przystojny, ładny": "good-looking",
-"Przystojny": "handsome",
-"Pospolity, nieatrakcyjny": "plain",
-"Ładny": "pretty",
-"Brzydki": "ugly",
-"Umięśniony": "muscular",
-"Otyły": "obese",
-"Z nadwagą / niedowagą": "overweight / underweight",
-"Puszysty, pulchny": "plump",
-"Chudy": "skinny",
-"Szczupły": "slim",
-"Kręcone": "curly",
-"Farbowane": "dyed",
-"Rude": "ginger / red",
-"Warkocz": "plait",
-"Do ramion": "shoulder-length",
-"Proste": "straight",
-"Falujące": "wavy",
-   },
-      "2_kolumna": {
-        "broda": "beard",
-"piegi": "freckles",
-"wąsy": "moustache",
-"blady": "pale",
-"opalony": "tanned",
-"przekłute uszy": "pierced ears",
-"blizna": "scar",
-"pryszczaty": "spotty",
-"tatuaż": "tattoo",
-"zmarszczki": "wrinkles",
-
-"wybierać, sięgać po (ciemniejsze kolory)": "go for (darker colours)",
-"siwieć": "go grey",
-"łysieć": "go bald",
-"malować paznokcie": "paint your nails",
-"przybierać na wadze": "put on weight",
-"tracić na wadze": "lose weight",
-"prostować (włosy)": "straighten",
-
-"bluzka": "blouse",
-"wysokie buty, kozaki": "boots",
-"bluza polarowa": "fleece",
-"wysokie obcasy": "high heels",
-"bluza z kapturem": "hoodie",
-"kurtka, marynarka, żakiet": "jacket",
-"sweter": "jumper",
-"piżama": "pyjamas",
-"trampki": "sneakers",
-"buty": "shoes",
-"spódnica": "skirt",
-"elegancki": "smart",
-"garnitur": "suit",
-"bluza sportowa": "sweatshirt",
-"dres": "tracksuit",
-"bielizna": "underwear",
-"kamizelka": "waistcoat",
-
-"pasek": "belt",
-"bransoletka": "bracelet",
-"guzik": "button",
-      },
-        "3_kolumna": { 
-"kolczyki": "earrings",
-"rękawiczki": "gloves",
-"torebka": "handbag",
-"naszyjnik": "necklace",
-"pierścionek": "ring",
-"szalik": "scarf",
-"krawat": "tie",
-
-"w kratę": "checked",
-"bawełna": "cotton",
-"dżinsowy": "denim",
-"futro; futrzany": "fur",
-"skóra; skórzany": "leather",
-"lniany": "linen",
-"jedwab": "silk",
-"w kropki": "spotted",
-"w paski": "striped",
-"wełna": "wool",
-
-"roztargniony": "absent-minded",
-"wybuchowy": "bad-tempered",
-"apodyktyczny": "bossy",
-"ostrożny / nieostrożny": "careful / careless",
-"pewny siebie / zbyt pewny siebie": "confident / overconfident",
-"wyluzowany, opanowany": "easygoing",
-"ekstrawertyk / introwertyk": "extrovert / introvertt",
-"delikatny, łagodny": "gentle",
-"uczynny, skory do pomocy / niechętny do pomocy": "helpful / unhelpful",
-"uczciwy / nieuczciwy": "honest / dishonest",
-"pomysłowy, twórczy / bez wyobraźni": "imaginative / unimaginative",
-"bałaganiarski": "messy",
-"skromny": "modest",
-"ograniczony, o wąskich horyzontach": "narrow-minded",
-"optymistyczny / pesymistyczny": "optimistic / pessimistic",
-"otwarty, towarzyski": "outgoing",
-"cierpliwy / niecierpliwy": "patient / impatient",
-"uprzejmy / nieuprzejmy": "polite / impolite",
-"solidny, niezawodny / iesolidny, zawodny": "reliable / unreliable",
-"samolubny / bezinteresowny": "selfish / unselfish",
-"wrażliwy": "sensitive",
-"szczery": "sincere",
-"towarzyski / nietowarzyski": "sociabl / eunsociable",
-"porządny / niechlujny": "tidy / untidy",
-"tolerancyjny / nietolerancyjny": "tolerant / intolerant",
-        },
-                  "17_10_1_kolumna": {
-"Godny zaufania": "Trustworthy",
-"Próżny": "Vain",
-
-
-"Irytuowany, rozdrażniony": "Annoyed",
-"Zaniepokojony, zatroskany": "Anxious",
-"W dobrym/złym humorze": "In a good/bad mood",
-"Zmęczony, wyczerpany": "Exhausted",
-"Przerażony": "Frightened",
-"Zadowolony": "Pleased",
-"Wystraszony": "Scared",
-"Zestresowany": "Stressed",
-"Zdziwiony, zaskoczony": "Surprised",
-"Zmęczony": "Tired",
-"Przygnębiony, zaniepokojony": "Upset",
-"Zmartwiony": "Worried",
-
-"Uwielbiać": "Adore",
-"Być fanem kogoś/czegoś": "Be a fan of sb/sth",
-"Być beznadziejnym (w czymś)": "Be hopeless at sth",
-"Zajmować się czymś": "Be into sth",
-"Interesować się, lubić coś robić": "Be keen on sth",
-"Szaleć za kimś/czymś": "Be mad about sb/sth",
-"Nie znosić": "Can't stand",
-"Ograniczać (ilość czegoś)": "Cut down on sth",
-"Aktywności wykonywane wewnątrz/na zewnątrz budynków": "Indoor/outdoor activities",
-"Znaleźć sobie jakieś hobby/zacząć uprawiać sport": "Take up (a hobby/a sport",
-              },
-              "17_10_2_kolumna": {
-                "Pochwalać coś / nie pochwalać czegoś": "Approve / disapprove of sth",
-"Postawa wobec czegoś, stosunek do czegoś": "Attitude towards sth",
-"Zmienić zdanie": "Change one’s mind",
-"Wolność słowa": "Freedom of speech",
-"Życzliwość": "Kindness",
-"Szacunek, szanować": "Respect",
-"Być z czegoś dumnym, szczycić się czymś": "Take pride in sth",
-"Wartość": "Value",
-"Mądrość": "Wisdom",
-
-
-"Podziwiać kogoś za coś": "Admire sb for sth",
-"Być wzorem do naśladowania": "Be a role model",
-"Zainspirować się kimś/czymś": "Be inspired by sb/sth",
-"Podziwiać kogoś": "Look up to sb",
-"Samoocena": "Self-esteem",
-
-
-"Wytworzyć alternatywne rozwiązanie": "Generate an alternative",
-"Wpaść na pomysł": "Come up with an idea",
-              },
-                  "17_10_3_kolumna": {
-                "Myśleć w nieszablonowy sposób": "Think outside the box",
-                "Myśleć w twórczy sposób": "Think creatively",
-                "Rozwiązać problem": "Solve a problem",
-                "Znaleźć rozwiązanie": "Work out a dilemma",
-                "Rozpatrywać kwestię z różnych punktów widzenia": "Think from different perspectives",
-
-                "Zaangażować się w coś": "Engage in sth",
-                "Zwiększyć oczekiwaną długość życia": "Increase one’s life expectancy",
-                "Przekazać": "Pass on",
-                "Osiągnąć pełnię możliwości rozwoju": "Reach one’s full growth potential",
-                "Zmniejszyć rozmiar": "Reduce in size",
-                  },
-                      "28_10" : {
-                    "Rosnąć": "grow grew grown",
-"Wisieć / powiesić": "hang hung hung",
-"Mieć": "have had had", 
-"Słyszeć": "hear heard heard",
-"Chować": "hide hid hidden",
-"Uderzyć": "hit hit hit",
-"Trzymać": "hold held held",
-"Zranić": "hurt hurt hurt",
-"Trzymać (keep)": "keep kept kept",
-"klęczeć" : "kneel knelt knelt",
-"dziac, robic na drutach" : "knit knitted knitted",
-"Wiedzieć": "know knew known",
-"Położyć": "lay laid laid",
-"Prowadzić": "lead led led",
-"pochylać sie" : "lean leant leant",
-"skakac" : "leap leapt leapt",
-"Uczyć się": "learn learned learned",
-"Opuścić": "leave left left",
-"Pożyczyć komuś": "lend lent lent",
-"Pozwolić": "let let let",
-"Leżeć": "lie lay lain",
-"Zapalać": "light lit lit",
-"Zgubić": "lose lost lost",
-"Zrobić": "make made made",
-"Znaczyć": "mean meant meant",
-"Spotkać": "meet met met",
-"pomylic sie" : "mistake mistook mistaken",
-"kosic, sciac" : "mow mowed mowed",
-"pokonać" : "overcome overcame overcome",
-"zaspać" : "oversleep overslept overslept",
-"Płacić": "pay paid paid",
-"udowodnić" : "prove proved proved",
-"Położyć": "put put put",
-"zrezygnowac, porzucic" : "quit quit quit",
-"Czytać": "read read read",
-"Jeździć na": "ride rode ridden",
-"Dzwonić": "ring rang rung",
-"Powstać, rosnąć": "rise rose risen",
-"Biegąćś": "run ran run",
-"Powiedzieć": "say said said",
-"Zobaczyć": "see saw seen",
-"Szukać": "seek sought sought",
-"Sprzedać": "sell sold sold",
-"Wysłać": "send sent sent",
-                  },
-    "22_01" : {
-"Ustawić": "set set set",
-"Ustawić": "set set set",
-"Szyc" : "sew sewed sewed",
-"Potrzasnac" : "shake shook shaken",
-"zrzucac" : "shed shed shed",
-"Świecić": "shine shone shone",
-"strzelać" : "shoot shot shot",
-"kurczyć się" : "shrink shrank shrunk",
-"Pokazaćś": "show showed shown",
-"Zamknąć": "shut shut shut",
-"Śpiewać": "sing sang sung",
-"Tonąć": "sink sank sunk",
-"Siedzieć": "sit sat sat",
-"Spać": "sleep slept slept",
-"slizgac sie" : "slide slid slid",
-"Pachnieć / Wąchać": "smell smelled smelled",
-"Mówić": "speak spoke spoken",
-"pędzić" : "speed speeded speeded",
-"Spędząć": "spend spent spent",
-"Stać": "stand stood stood",
-"Ukraść": "steal stole stolen",
-"Ukłuć": "sting stung stung",
-"śmierdzieć" : "stink stank stunk",
-"uderzyć, strajkowac" : "strike struck struck",
-"wbijac, przyklejac" : "stick stuck stuck",
-"Przyrzekać": "swear swore sworn",
-"zamiatać, wyniesc" : "sweep swept swept",
-"kołysanie/machanie" : "swing swung swung",
-"pchnac" : "thrust thrust thrust",
-"poddac sie" : "undergo underwent undergone",
-"nawijac/nakrecac" : "wind wound wound",
-"wycofać się/ wyplacic" : "withdraw withdrew withdrawn",
-"sciskac, uciskac" : "wring wrung wrung",
-"puchnac, nabrzmiewac" : "swell swelled swelled",
-"Płynąć": "swim swam swum",
-"Wziąć": "take took taken",
-"Uczyć": "teach taught taught",
-"Podrzeć": "tear tore torn",
-"Powiedzieć": "tell told told",
-"Myśleć": "think thought thought",
-"Rzucać": "throw threw thrown",
-"Rozumieć": "understand understood understood",
-"Obudzić się": "wake woke woken",
-"Nosić": "wear wore worn",
-"Wygrać": "win won won",
-"Pisać": "write wrote written",
-    },
-    "type_of_house" : {
-        "blok mieszkalny" : "block of flats",
-"dom parterowy" : "bungalow",
-"chata, domek" : "cabin",
-"domek wiejski" : "cottage",
-"dom wolnostojący" : "detached house",
-"dom jednorodzinny" : "family home",
-"dom w gospodarstwie rolnym" : "farmhouse",
-"osiedle mieszkaniowe" : "housing estate",
-"pałac, rezydencja" : "mansion",
-"dom spokojnej starości" : "nursing home",
-"bliźniak" : "semi-detached house",
-"wieżowiec" : "skyscraper / tower block",
-"kawalerka" : "studio flat",
-"dom szeregowy, segment" : "terraced house",
-    },
-    "home_surro" : {
-        "po drugiej stronie ulicy" : "across the road from",
-"centralne położenie" : "central location",
-"dojeżdżać (do pracy lub do szkoły)" : "commute",
-"dzielnica" : "district",
-"w wiejskiej okolicy" : "in a rural area",
-"na wsi" : "in the countryside",
-"na odludziu, w szczerym polu" : "in the middle of nowhere",
-"na przedmieściach" : "in the suburbs",
-"mieszkaniec / mieszkanka" : "inhabitant",
-"położony" : "located",
-"sąsiad / sąsiadka" : "neighbour",
-"sąsiedztwo, okolica" : "neighbourhood",
-"Stare Miasto" : "Old Town",
-"na skraju (czegoś)" : "on the edge of",
-"wychodzić na, mieć widok na" : "overlook",
-"transport publiczny" : "public transport",
-"mieszkańcy" : "residents",
-"wioska" : "village",
-    },
-    "rooms_h" : {
-        "strych, poddasze" : "attic",
-"piwnica" : "basement",
-"wiata na samochód" : "carport",
-"sufit" : "ceiling",
-"komin" : "chimney",
-"na dole, na parterze" : "downstairs",
-"podjazd" : "drive",
-"ogrodzenie, płot" : "fence",
-"kominek" : "fireplace",
-"drzwi frontowe/tylne" : "front / back door",
-"brama" : "gate",
-"żywopłot" : "hedge",
-"parter" : "ground floor",
-"domowa pralnia" : "laundry room",
-"trawnik" : "lawn",
-"winda" : "lift",
-"salon" : "living room / lounge",
-"strych, poddasze" : "loft",
-"ganek" : "porch",
-"dach" : "roof",
-"szopa" : "shed",
-"klatka schodowa" : "staircase",
-"schodki" : "steps",
-"gabinet" : "study",
-"na górze, na piętrze" : "upstairs",
-"dziedziniec, podwórze" : "yard",
-    },
-    "opis_dom" : {
-        "przestronny" : "airy",
-"źle wykończony" : "badly-decorated",
-"jasny" : "bright",
-"zagracony" : "cluttered",
-"przerobić, przekształcić" : "convert",
-"przytulny" : "cosy",
-"zakurzony" : "dusty",
-"przyjazny dla środowiska" : "eco-friendly",
-"umeblowany / nieumeblowany" : "furnished / unfurnished",
-"przytulny (domowy)" : "homely",
-"luksusowy" : "luxurious",
-"utrzymywać, konserwować" : "maintain",
-"błoto" : "mud",
-"staromodny" : "old-fashioned",
-"bez ścian działowych" : "open-plan",
-"z drugiej ręki, używany" : "second-hand",
-"przestronny" : "spacious",
-"stalowy" : "steel",
-"kamienny" : "stone",
-        "posprzątany/nieposprzątany" : "tidy / untidy",
-"drewniany" : "wooden",
-
-    },
-    "wyposzaenie_domu" : {
-        "klimatyzacja" : "air conditioning",
-"budzik" : "alarm clock",
-"dywanik łazienkowy" : "bath mat",
-"stolik nocny" : "bedside table",
-"koc" : "blanket",
-"rolety / żaluzje" : "blinds",
-"dywan" : "carpet",
-"centralne ogrzewanie" : "central heating",
-"komoda" : "chest of drawers",
-"ekspres do kawy" : "coffee maker",
-"kuchenka" : "cooker",
-"szafka kuchenna" : "cupboard",
-"zasłony / firanki" : "curtains / net curtains",
-"poduszka dekoracyjna" : "cushion",
-"zmywarka" : "dishwasher",
-"wycieraczka" : "doormat",
-"podwójne łóżko" : "double bed",
-"kołdra" : "duvet",
-"czajnik elektryczny" : "electric kettle",
-"wyspa kuchenna" : "kitchen island",
-"urządzenia kuchenne" : "kitchen appliances",
-"oświetlenie" : "lighting",
-"kuchenka mikrofalowa" : "microwave",
-"piekarnik" : "oven",
-"poduszka" : "pillow",
-"roślina doniczkowa" : "potted plant",
-"dywanik" : "rug",
-"prześcieradło" : "sheet",
-"półka" : "shelf",
-"pojedyncze łóżko" : "single bed",
-"toster" : "toaster",
-"toaleta, sedes" : "toilet",
-"wieszak na ręczniki" : "towel rail",
-"telewizor" : "TV set",
-"tapeta" : "wallpaper",
-"umywalka" : "washbasin",
-"pralka" : "washing machine",
-    },
-        "prace_domowe" : {
-            "szczotka": "brush",
-"zmieniać pościel": "change the sheets",
-"szufelka": "dustpan",
-"pracować w ogrodzie": "do the gardening",
-"robić zakupy spożywcze": "do the grocery shopping",
-"robić pranie": "do the laundry",
-"zajmować się domem": "do the housework",
-"wycierać kurz z mebli": "dust the furniture",
-"opróżniać zmywarkę": "empty the dishwasher",
-"opróżniać kosz na śmieci": "empty the rubbish bin",
-"pozbywać się niepotrzebnych, nieużywanych rzeczy": "have a clear-out",
-"mieć dobrą rękę do roślin": "have green fingers",
-"odkurzać dywan": "hoover the carpet",
-"prasować ubrania": "iron the clothes",
-"utrzymywać coś w nienagannym porządku": "keep sth neat and tidy",
-"wprowadzać ulepszenia": "make improvements",
-"ścielić łóżko": "make the bed",
-"wycierać podłogę mopem": "mop the floor",
-"kosić trawnik": "mow the lawn",
-"odnowić korytarz": "renovate a corridor",
-"gumowe rękawiczki": "rubber gloves",
-"torba na zakupy": "shopping bag",
-"gąbka": "sponge",
-"zamiatać podłogę": "sweep the floor",
-"ścierka": "tea towel"
-        },
-
-   "przeprowadzka" : {
-       "zakwaterowanie": "accommodation",
-"ogłoszenie, reklama": "ad / advert",
-"aukcja, licytacja": "auction",
-"rachunek": "bill",
-"budżet": "budget",
-"kaucja, zaliczka": "deposit",
-"agent/agentka nieruchomości": "estate agent",
-"współlokator/współlokatorka": "flatmate / housemate / roommate",
-"właściciel/właścicielka (mieszkania lub domu)": "landlord / landlady",
-"mieszkać samemu": "live on one's own",
-"przeprowadzić się": "move house",
-"wprowadzić się/wprowadzić się": "move in",
-"wypowiedzenie": "notice",
-"zapłacić z góry": "pay in advance",
-"płatność": "payment",
-"samochód służący do przewożenia mebli": "removal van",
-"wynająć; czynsz": "rent",
-"dzielić z kimś pokój/mieszkanie/dom": "share a room / flat / house",
-"do wynajęcia": "to let",
-   },
-    "sluchanie" : {
-        "obowiązek, rodzaj nielubianej pracy domowej": "chore",
-"czystość": "cleanliness",
-"pozbyć się czegoś": "get rid of sth",
-"odkładać pieniądze, oszczędzać": "put money aside",
-"odkładać coś (na swoje miejsce)": "put sth away",
-"odkładać coś (na później)": "put sth off",
-"zagotować wodę (na herbatę)": "put the kettle on",
-"znosić coś, tolerować": "put up with sth",
-"nieskazitelnie czysty": "spotless",
-"wyrzucić coś": "throw sth away",
-    },
-    "czytanie" : {
-        "chromowane klamki do drzwi": "chrome door handle",
-"skrzypiące schody": "creaky stairs",
-"zarośnięty ogród": "overgrown garden",
-"górne oświetlenie": "overhead lighting",
-"ogrzewanie podłogowe": "underfloor heating",
-    },
-    "szkola_pomieszczenia" : {
-        "stołówka, bufet": "canteen",
-        "świetlica": "common room",
-        "gabinet dyrektora/dyrektorki szkoły": "headteacher’s office",
-        "pracownia (fizyczna lub chemiczna)": "laboratory",
-        "aula": "lecture hall",
-        "szatnia": "locker room",
-        "boisko, plac zabaw": "playground",
-        "sekretariat": "secretary’s office",
-        "boisko": "sports field",
-        "pokój nauczycielski": "staffroom",
-    },
-        "przedmioty_nauczania" : {
-            "archeologia": "archaeology",
-            "architektura": "architecture",
-            "przedmioty artystyczne": "arts subjects",
-            "bankowość i finanse": "banking and finance",
-            "chemia": "chemistry",
-            "inżynieria": "engineering",
-            "języki obce": "foreign languages",
-            "nauki humanistyczne": "humanities",
-            "informatyka": "IT / information technology",
-            "dziennikarstwo": "journalism",
-            "prawo": "law",
-            "marketing i zarządzanie": "marketing and management",
-            "medycyna": "medicine",
-            "WF, wychowanie fizyczne": "PE / physical education",
-            "fizyka": "physics",
-            "psychologia": "psychology",
-            "przedmioty ścisłe": "science subjects",
-            "nauki społeczne": "social sciences",
-            "socjologia": "sociology",
-    },
-        "uczenie_zycie" : {
-            "wszechstronny rozwój": "all-round development",
-            "uczęszczać na kurs": "attend a course",
-            "być ciekawym": "be curious",
-            "omawiać różne pomysły, przeprowadzać burzę mózgów": "brainstorm ideas",
-            "skupić się na czymś": "concentrate on sth",
-            "myślenie krytyczne": "critical thinking",
-            "motywować: motywujący": "motivate / motivating",
-            "rozwój osobisty": "personal development",
-            "wprowadzić plan w życie": "put a plan into action",
-            "powtarzać do czegoś": "revise for sth",
-            "zarządzać sobą": "self-management",
-            "wewnętrzna motywacja": "self-motivation",
-            "wyznaczać sobie cele": "set goals",
-            "zmagać się z czymś": "struggle with sth",
-            "robić notatki": "take notes",
-    },
-        "przybory_szkolne" : {
-            "kreda": "chalk",
-            "cyrkiel": "compasses",
-            "teczka": "folder",
-            "mazak fluorescencyjny": "highlighter",
-            "dziurkacz": "hole punch",
-            "kątomierz": "protractor",
-            "ekierka": "set square",
-            "zszywacz": "stapler",
-    },
-        "ocene_wymagania" : {
-            "nagroda: nagrodzić": "award",
-            "świadectwo": "certificate",
-            "oszukiwać, ściągać": "cheat",
-            "egzamin semestralny / na koniec roku": "end-of-term / end-of-year exam",
-            "egzamin wstępny": "entrance exam",
-            "arkusz egzaminacyjny": "exam paper",
-            "dodatkowe lekcje": "extra lessons",
-            "otrzymać stopień naukowy": "get a degree",
-            "zostać złapanym": "get caught",
-            "otrzymać wyniki": "get results",
-            "wystawiać oceny": "give marks",
-            "składać się na coś": "go towards sth",
-            "ocena": "grade / mark",
-            "absolwent / absolwentka": "graduate",
-            "ukończyć (studia wyższe)": "graduate from",
-            "uczyć się na pamięć": "memorise",
-            "egzamin próbny": "mock / practice exam",
-            "egzamin ustny, egzamin pisemny": "oral / written exam",
-            "arkusz egzaminacyjny z poprzednich lat": "past paper",
-            "zdawać ponownie": "retake",
-            "egzamin kończący naukę w szkole": "school-leaving exam",
-            "wysyłać": "send out",
-            "podejść do testu, podejść do egzaminu": "take a test / an exam",
-            "korepetytor, korepetycje": "tutor / tutoring",
-    },
-        "zycie_szkoly" : {
-            "nieobecny, nieobecna": "absent",
-            "osoba nieobecna": "absentee",
-            "ocena": "assessment",
-            "obecność na zajęciach, frekwencja": "attendance",
-            "dzwonek": "bell",
-            "dręczyć, prześladować": "bully",
-            "sprawdzić swoją pracę": "check your work",
-            "obowiązkowy": "compulsory / obligatory",
-            "podręcznik": "coursebook",
-            "praca okresowa": "coursework",
-            "program nauczania": "curriculum",
-            "termin wykonania pracy": "deadline",
-            "dyktando": "dictation",
-            "wykonać zadaną pracę, napisać zadaną pracę": "do / write an assignment",
-            "poszukiwać informacji, prowadzić badania": "do research",
-            "uzyskać słabe wyniki": "get poor results",
-            "zostać zawieszonym": "get suspended",
-            "przedstawić prezentację": "give a presentation",
-            "wygłosić referat na temat": "give a talk on",
-            "średnia ocen": "grade point average",
-            "oddać pracę domową": "hand in homework",
-            "opuszczać lekcje": "miss lessons",
-            "opcjonalny, dobrowolny": "optional",
-            "drugie śniadanie": "packed lunch",
-            "strój sportowy": "PE kit",
-            "wagarować": "play truant",
-            "praca projektowa": "project work",
-    },
-            "19_03_1" : {
-                "Punktualność": "Punctuality",
-"Zgłosić kogoś, donieść na kogoś": "Report someone",
-"Zadawać pracę domową": "Set homework",
-"Zwolnienie (np. z WF-u)": "Sick note",
-"Zrobić sobie rok przerwy między szkołą średnią a studiami": "Take a gap year",
-"Pracować w parach": "Work in pairs",
-"Pracować nad projektem": "Work on a project",
-"Napisać wypracowanie, esej": "Write an essay",
-            },
-               "19_03_2" : {
-                   "Kolega/koleżanka z klasy": "Classmate",
-"Asystent/asystentka nauczyciela": "Classroom assistant",
-"Wychowawca/wychowawczyni": "Form tutor",
-"Dyrektor/dyrektorka szkoły": "Head teacher",
-"Dyrektor/dyrektorka szkoły": "Headmaster / Headmistress",
-"Uczeń/uczennica": "Pupil",
-"Grono pedagogiczne": "Staff",
-            },
-               "19_03_3" : {
-                   "Należeć do": "Belong to",
-"Impreza charytatywna": "Charity event",
-"Wycieczka w ramach wymiany międzyszkolnej": "Exchange trip",
-"Wydarzenie zorganizowane w celu zbierania funduszy": "Fundraising event",
-"Wstąpić do klubu/stowarzyszenia": "Join a club / a society",
-"Członek/członkini": "Member",
-"Uważać": "Pay attention",
-"Wycieczka szkolna": "School trip",
-                   "Obóz letni": "Summer camp",
-"Brać udział w czymś": "Take part in sth",
-"Szkolenie": "Training",
-"Wolontariat": "Voluntary work",
-"Warsztat": "Workshop",
-            },
-               "19_03_4" : {
-                   "Uczelnia": "Academy",
-"Szkoła z internatem": "Boarding school",
-"Szkoła koedukacyjna": "Coeducational school",
-"Kolegium, szkoła pomaturalna": "College",
-"Uczyć się zawodu": "Do vocational training",
-"Szkoła podstawowa": "Elementary school / Primary school",
-"Szkoła średnia": "High school / Secondary school",
-"Szkoła prywatna": "Independent school",
-"Szkoła średnia (13–15 lat, USA)": "Junior high school",
-"Przedszkole": "Kindergarten",
-"Żłobek": "Nursery",
-"Czesne": "School fees",
-"Szkoła żeńska/męska": "Single-sex school",
-"Szkoła państwowa": "State school",
-"Uniwersytet": "University",
-"Szkoła zawodowa": "Vocational school",
-"Możliwość uczenia się": "Ability to learn",
-
-            },
-               "19_03_5" : {
-                   "Liczydło": "Abacus",
-"Być kwestią czasu": "Be a matter of time",
-"Być trudnym do wyobrażenia": "Be hard to imagine",
-"Kalkulator": "Calculator",
-"Platforma oparta na chmurze": "Cloud-based platform",
-"Tablica interaktywna": "Digital whiteboard",
-"Globus": "Globe",
-"Poręczny": "Handy",
-"Mieć pojęcie o czymś": "Have a clue",
-"Pióro wieczne": "Ink pen",
-"Rzutnik": "Overhead projector",
-"Pomoce wizualne": "Visual aids",
-                   "Wraz z nadejściem czegoś": "With the advent of sth",
-            },
-               "19_03_6" : {
-                   "Usiąść do książek": "Hit the books",
-"Wpakować w coś; napakować": "Pack sth into",
-"Zbierać informacje": "Pick up information",
-"Wznowić pracę": "Resume one’s work",
-"Rozłożyć w czasie": "Space out",
-            },
-    "30_03_1" : {
-        "Księgowy / Księgowa": "accountant",
-"Architekt / Architektka": "architect",
-"Kasjer / Kasjerka w banku": "cashier",
-"Kucharz / Kucharka": "chef",
-"Programista / Programistka": "computer programmer",
-"Ekonomista / Ekonomistka": "economist",
-"Redaktor / Redaktorka": "editor",
-"Elektryk": "electrician",
-"Rolnik": "farmer",
-"Projektant / Projektantka mody": "fashion designer",
-"Strażak": "firefighter",
-"Steward / Stewardesa": "flight attendant",
-"Dziennikarz / Dziennikarka": "journalist",
-"Sędzia": "judge",
-"Prawnik / Prawniczka": "lawyer",
-"Wykładowca / Wykładowczyni": "lecturer",
-"Bibliotekarz / Bibliotekarka": "librarian",
-"Kierownik / Kierowniczka": "manager",
-"Pielęgniarz / Pielęgniarka": "nurse",
-"Asystent / Asystentka biura": "office assistant",
-"Ratownik medyczny / Ratowniczka medyczna": "paramedic",
-"Aptekarz / Aptekarka": "pharmacist",
-"Hydraulik": "plumber",
-"Policjant / Policjantka": "police officer",
-"Recepcjonista / Recepcjonistka": "receptionist",
-"Sprzedawca / Sprzedawczyni": "sales assistant",
-"Żołnierz": "soldier",
-"Chirurg": "surgeon",
-"Pracownik / Pracownica biura podróży": "travel agent",
-"Prezenter telewizyjny / Prezenterka telewizyjna": "TV presenter",
-"Lekarz / Lekarka weterynarii": "vet", 
-    },
-        "30_03_2" : {
-        "Być w pracy": "be at work",
-"Odpowiadać za kogoś / coś": "be in charge of sb / sth",
-"Być odpowiedzialnym za coś": "be responsible for sth",
-"Zbierać dane": "collect data",
-"Zajmować się dokumentami": "do paperwork",
-"Utrzymywać się z czegoś": "do sth for a living",
-"Wypełniać obowiązki": "fulfil duties",
-"Zakres obowiązków": "job description",
-"Zawód": "profession",
-"Nadzorować": "supervise",
-"Wziąć odpowiedzialność za kogoś / coś": "take responsibility for sb / sth",
-"Pracować jako ktoś": "work as sb",
-"Pracować w firmie": "work for a company",
-"Pracować w zespole": "work in a team",
-"Pracować w dziale sprzedaży": "work in sales",
-"Pracować w branży turystycznej": "work in the tourist industry",
-"Pracować nad czymś": "work on sth",
-"Pracować pod presją": "work under pressure",
-"Pracować z kimś": "work with sb",
-    },
-        "30_03_3" : {
-        "Inspirująca": "inspiring",
-"Fizyczna": "manual",
-"Monotonna": "monotonous",
-"Motywująca": "motivating",
-"Wymagająca kwalifikacji": "skilled",
-"Stabilna": "steady",
-"Bezstresowa": "stress-free",
-"Bezpłatna": "unpaid",
-"Dobrze płatna": "well-paid"
-    },
-        "30_03_4" : {
-        "Au pair": "au pair",
-"Opiekun / opiekunka do dzieci": "babysitter",
-"Praca tymczasowa / dorywcza": "casual work",
-"Wolontariusz / Wolontariuszka": "Charity worker",
-"Doręczyciel / Doręczycielka": "Delivery boy / Delivery girl",
-"Osoba zbierająca owoce": "Fruit picker",
-"Ratownik / Ratowniczka": "Lifeguard",
-"Praca sezonowa": "Seasonal job",
-"Opiekun / Opiekunka na obozie letnim": "Summer camp supervisor",
-"Płaca, dniówka": "Wages",
-    },
-        "30_03_5" : {
-        "Ogłaszać": "Advertise",
-"Kandydat / Kandydatka (do pracy)": "Applicant",
-"Ubiegać się o pracę": "Apply for a job",
-"Załączyć CV": "Attach / Enclose a CV",
-"Zostać zwolnionym": "Be fired",
-"Zostać zatrudnionym": "Be hired",
-"Zostać zatrudnionym": "Become employed",
-"List motywacyjny": "Covering letter",
-"Pracownik / Pracownica": "Employee",
-"Pracodawca / Pracodawczyni": "Employer",
-"Wypełnić formularz aplikacyjny": "Fill in an application form",
-"Skorzystać z doradztwa zawodowego": "Get careers advice",
-"Odbyć rozmowę kwalifikacyjną": "Have a job interview",
-"Dział personalny": "Human resources",
-"Biuro pośrednictwa pracy": "Jobcentre",
-"Prowadzić rejestr": "Keep a record",
-"Brak doświadczenia": "Lack of experience",
-"Praca, stanowisko": "Position",
-"Stanowisko, posada": "Post",
-"Kwalifikacje": "Qualifications",
-"Odejść z pracy": "Quit a job",
-"Rekrutacja": "Recruitment",
-"Referencje": "Reference",
-"Odrzucić": "Reject",
-"Złożyć rezygnację": "Resign",
-"Prowadzić własną firmę": "Run your own business",
-"Lista najpoważniejszych kandydatów": "Short list",
-"Podpisać umowę": "Sign a contract",
-"Przyjąć, zatrudnić kogoś": "Take on sb",
-"Podjąć pracę": "Take up a job",
-"Bezrobotny": "Unemployed",
-"Wakat, wolne stanowisko": "Vacancy",
-    },
-        "30_03_6" : {
-        "Być źle/dobrze opłaconym": "Be badly / well-paid",
-"Podróż służbowa": "Business trip",
-"Szansa na awans": "Chance of promotion",
-"Kolega/koleżanka z pracy": "Colleague",
-"Pracować w nadgodzinach": "Do / work overtime",
-"Pracować na zmiany": "Do / work shifts",
-"Zarobki": "Earnings",
-"Na pełen etat": "Full-time",
-"Dostać premię": "Get a bonus",
-"Dochód": "Income",
-"Dotrzymać terminów wykonania pracy": "Meet deadlines",
-"Płatny urlop": "Paid leave",
-"Na część etatu": "Part-time",
-"Podwyżka pensji": "Pay rise / increase",
-"Na godzinę/tygodniowo/miesięcznie": "Per hour / week / month",
-"Stała praca": "Permanent job",
-"Dzień ustawowo wolny od pracy": "Public holiday",
-"Pensja": "Salary",
-"Zwolnienie lekarskie/zasiłek chorobowy": "Sick leave / sick pay",
-"Wziąć wolne": "Take time off",
-"Podatek": "Tax",
-"Praca zespołowa": "Teamwork",
-"Napiwek": "Tip",
-"Pracować do późna": "Work long hours",
-"Warunki pracy": "Working conditions", 
-    },
-    "17_09_mp3_53" : {
-	"Kosztować majątek" : "Cost a fortune",
-	"Kosztowny" : "Costly",
-	"Końcowka kolekcji" : "End of line",
-	"Uczciwa cena" : "Fair price",
-	"Za połowę ceny" : "Half price",
-	"Drogi" : "Expensive",
-	"Niedrogi" : "Inexpensive",
-	"Niska cena" : "Low price",
-	"Używany" : "Second hand",
-	"Najwyższej jakości" : "Top quality",
-	"Towar wart swojej ceny" : "Value for money",
-	"Wart" : "Worth",
-},
-
-"17_09_mp3_54" : {
-	"Pozwolić sobie na coś" : "Afford",
-	"Sprzedawca / sprzedawczyni" : "Assistant",
-	"Okazja cenowa" : "Bargain",
-	"Oddział, filia" : "Branch",
-	"Torba na zakupy" : "Carrier bag",
-	"Kasjer / kasjerka" : "Cashier",
-	"Pobierać (opłate), liczyć sobie (za coś)" : "Charge",
-	"Kasa (w sklepie lub w supermarkecie)" : "Checkout",
-	"Konkurencyjne ceny" : "Competitive prices",
-	"Wygodny, dogodny" : "Convenient",
-	"Klient / klientka" : "Customer",
-	"Zniżka" : "Discount",
-	"Wystawa sklepowa" : "Display",
-	"Przymierzalnia" : "Fitting room",
-	"Na sprzedaż" : "For sale",
-	"Dobry / zły interes" : "Good bad deal",
-	"Zachować paragon" : "Keep a receipt",
-	"Ogromne żniki" : "Massive reductions",
-	"W promocji" : "On special offer",
-	"Zamówić w internecie" : "Order online",
-	"Podwyższyć cenę" : "Put up the price",
-	"Kolejka, stać w kolejce" : "Queue",
-	"Przecenić z - na" : "Reduce from to",
-	"Wyprzedać" : "Sell out",
-	"Wózek sklepowy" : "Trolley",
-},
-
-"17_09_mp3_55" : {
-	"Kartą / Telefonem / Zegarkiem" : "By card phone watch",
-	"Bankomat" : "Cashpoint",
-	"Monety" : "Coins",
-	"Transakcja bezdotykowa" : "Contactless payment",
-	"Karta kredytowa / debetowa" : "Credit Debit Card",
-	"Przejść (o transakcji kartą)" : "Go through",
-	"Gotówką" : "In cash",
-	"Włożyć kartę" : "Insert a card",
-	"Wpisać kod PIN" : "key in a PIN number",
-	"Drobne" : "Loose change",
-	"Zgubić kartę" : "Lose a card",
-	"Płatności mobilne" : "Mobile payment",
-	"Banknoty" : "Notes",
-	"Akceptować płatność kartą" : "Accept cards",
-	"Wypłacić pieniądze" : "Take money out",
-},
-
-"17_09_mp3_58" : {
-	"Zwrócić coś (do sklepu)" : "Take sth back",
-	"Zepsuty" : "Broken",
-	"Wymienić coś" : "Exchange sth",
-	"Otrzymać zwrot pieniędzy" : "Get your money back",
-	"Dziura" : "Hole",
-	"Brakujący" : "Missing",
-	"Nie pasować / nie działać" : "Not fit / Not work",
-	"Zwrot pieniędzy" : "Refund",
-	"Rozmawiać z kierownikiem" : "Speak to manager",
-	"Plama" : "Stain",
-},
-
-"17_09_mp3_62" : {
-	"Robić co w naszej mocy" : "Do your bit",
-	"Być przeznaczonym na cele charytatywne" : "Go to charity",
-	"Wyglądać na najlepsze rozwiązanie" : "Look for the best way forward",
-	"Złożyć ofertę" : "Place the bid",
-	"Zamienić się z czymś z kimś" : "Swap sth with sb",
-	"Rozumieć aluzję" : "Take the hints",
-	"Wygrać aukcję" : "Win an auction",
-},
-
-"17_09_mp3_63" : {
-	"Przekazać, oddać" : "Donate to",
-	"Złapac okazję" : "Grab a bargain",
-	"Gościć" : "Host",
-	"Przegapić okazje" : "Miss out on an opportunity",
-	"Prowadzony przez" : "Run by",
-	"Ustawić, rozstawiać" : "Set up",
-},
- };
-
+let skroty = {};
+let wagiPojec = {}; // Przechowuje wagi dla każdego słówka
 let poprzedniSkrót = null;
 
+// Aktualizacja bazy słów na podstawie zaznaczonych kategorii
+function zaktualizujKategorie() {
+    skroty = {};
+    wagiPojec = {};
+    const checkboxes = document.querySelectorAll('#kategorie-list input[type="checkbox"]:checked');
+    
+    checkboxes.forEach(checkbox => {
+        const kategoriaKey = checkbox.value;
+        if (kategorieSkrótów[kategoriaKey]) {
+            Object.assign(skroty, kategorieSkrótów[kategoriaKey]);
+        }
+    });
+
+    // Inicjalizacja wag wartością 1
+    Object.keys(skroty).forEach(key => {
+        wagiPojec[key] = 1;
+    });
+
+    const iloscPojec = Object.keys(skroty).length;
+    const licznikElem = document.getElementById("licznik-pojec");
+    if (licznikElem) {
+        licznikElem.innerText = `Dostępnych słówek: ${iloscPojec}`;
+    }
+
+    if (iloscPojec > 0) {
+        losujSkrót();
+    } else {
+        document.getElementById("skrot").innerText = "Wybierz kategorię w ustawieniach";
+        document.getElementById("odpowiedz").value = "";
+        document.getElementById("wynik").style.display = "none";
+        document.getElementById("pokazOdpowiedz").style.display = "none";
+        document.getElementById("poprawnaOdpowiedz").style.display = "none";
+    }
+}
+
+function zaznaczWszystkie(stan) {
+    const checkboxes = document.querySelectorAll('#kategorie-list input[type="checkbox"]');
+    checkboxes.forEach(checkbox => {
+        checkbox.checked = stan;
+    });
+    zaktualizujKategorie();
+}
+
+// Algorytm losowania ważonego (częstsze losowanie trudnych słów)
 function losujSkrót() {
     const skrótyKeys = Object.keys(skroty);
+    if (skrótyKeys.length === 0) return;
 
-    // Wybierz losowy skrót, ale nie ten sam co poprzednio
-    let losowySkrót;
-    do {
-        const losowyIndex = Math.floor(Math.random() * skrótyKeys.length);
-        losowySkrót = skrótyKeys[losowyIndex];
-    } while (losowySkrót === poprzedniSkrót);
+    if (skrótyKeys.length === 1) {
+        poprzedniSkrót = skrótyKeys[0];
+    } else {
+        let sumaWag = 0;
+        skrótyKeys.forEach(key => {
+            if (key !== poprzedniSkrót) {
+                sumaWag += wagiPojec[key] || 1;
+            }
+        });
 
-    poprzedniSkrót = losowySkrót; // Zapisz ostatnio wylosowany skrót
-    const skrotElement = document.getElementById("skrot");
-    skrotElement.innerText = losowySkrót;
+        let randomWeight = Math.random() * sumaWag;
+
+        for (let key of skrótyKeys) {
+            if (key === poprzedniSkrót) continue;
+            randomWeight -= (wagiPojec[key] || 1);
+            if (randomWeight <= 0) {
+                poprzedniSkrót = key;
+                break;
+            }
+        }
+    }
+
+    document.getElementById("skrot").innerText = poprzedniSkrót;
     document.getElementById("odpowiedz").value = "";
     document.getElementById("wynik").innerText = "";
+    document.getElementById("wynik").style.display = "none";
     document.getElementById("pokazOdpowiedz").style.display = "none";
     document.getElementById("poprawnaOdpowiedz").style.display = "none";
 }
@@ -2205,379 +297,104 @@ function losujSkrót() {
 function sprawdzOdpowiedz() {
     const odpowiedzInput = document.getElementById("odpowiedz");
     const wynik = document.getElementById("wynik");
+    if (!odpowiedzInput || !wynik) return;
+
     const odpowiedz = odpowiedzInput.value.toLowerCase().replace(/\s+/g, ' ').trim();
+
+    if (!poprzedniSkrót || !skroty[poprzedniSkrót]) return;
 
     if (odpowiedz === skroty[poprzedniSkrót].toLowerCase()) {
         wynik.innerText = "Poprawna odpowiedź!";
-        wynik.style.display = "block"; // Wyświetl wynik
-        losujSkrót();
+        wynik.style.color = "#34d399";
+        wynik.style.display = "block";
+        
+        // Zmniejszenie wagi po poprawnej odpowiedzi
+        if (wagiPojec[poprzedniSkrót] > 1) {
+            wagiPojec[poprzedniSkrót] -= 1;
+        }
+
+        setTimeout(() => {
+            losujSkrót();
+        }, 800);
     } else {
-        wynik.innerText = "Niepoprawna odpowiedź. Spróbuj jeszcze raz.";
-        wynik.style.display = "block"; // Wyświetl wynik
-        document.getElementById("pokazOdpowiedz").style.display = "block";
+        wynik.innerText = "Niepoprawna odpowiedź. Spróbuj jeszcze raz!";
+        wynik.style.color = "#f87171";
+        wynik.style.display = "block";
+        document.getElementById("pokazOdpowiedz").style.display = "inline-block";
+        
+        // Zwiększenie wagi trudnego słowa
+        wagiPojec[poprzedniSkrót] = (wagiPojec[poprzedniSkrót] || 1) + 2;
     }
 }
-
 
 function pokazOdpowiedz() {
     const poprawnaOdpowiedz = document.getElementById("poprawnaOdpowiedz");
-    poprawnaOdpowiedz.innerText = skroty[poprzedniSkrót];
-    poprawnaOdpowiedz.style.display = "block";
+    if (poprawnaOdpowiedz && poprzedniSkrót && skroty[poprzedniSkrót]) {
+        poprawnaOdpowiedz.innerText = skroty[poprzedniSkrót];
+        poprawnaOdpowiedz.style.display = "block";
+    }
 }
 
 function losujInnySkrót() {
-    losujSkrót(); // Losuj inny wyraz po kliknięciu przycisku "Wylosuj inny skrót"
-}
-
-
-// Obsługa naciśnięcia klawisza "Enter" w polu odpowiedzi
-document.getElementById("odpowiedz").addEventListener("keyup", function (event) {
-    if (event.key === "Enter") {
-        sprawdzOdpowiedz(); // Wywołaj funkcję sprawdzOdpowiedz() po naciśnięciu Enter
-    }
-});
-
-function zmienKategorie() {
-    const wybranaKategoria = document.getElementById("kategoria").value;
-
-    if(wybranaKategoria === "klasa_2_k1") {
-        document.getElementById("h1").innerHTML = "Rozwiń skrót";
-    }else {
-        document.getElementById("h1").innerHTML = "Przetłumacz na angielski";
-    }
-
-    const noweSkróty = kategorieSkrótów[wybranaKategoria];
-
-    if (noweSkróty) {
-        skroty = noweSkróty;
-        losujSkrót();
-    }
-}
-function zmienMotyw() {
-    const wybranyMotyw = document.getElementById("motyw").value;
-    if (wybranyMotyw == "Default") {
-        document.body.style.backgroundImage = 'linear-gradient(to bottom, #cbe279, #cad8dd)';
-        document.body.style.backgroundSize = '200% 100%';
-        document.body.style.animation = 'BackgroundAnimation 4s linear infinite';
-        document.getElementById('skrot').style.color = '#333';
-        document.getElementById('kategoria').style.border = '2px solid #ccc'
-        document.getElementById('motyw').style.border = '2px solid #ccc'
-        document.getElementById('kategoria').style.backgroundImage = 'linear-gradient(to bottom, rgb(235, 239, 255), rgb(189, 194, 212)';
-        document.getElementById('motyw').style.backgroundImage = 'linear-gradient(to bottom, rgb(235, 239, 255), rgb(189, 194, 212)';
-        document.getElementById('kategoria').style.color = '#333';
-        document.getElementById('motyw').style.color = '#333';
-        var selectKategoria = document.getElementById('kategoria');
-        var selectMotyw = document.getElementById('motyw');
-
-        var optionsKategoria = selectKategoria.getElementsByTagName('option');
-        var optionsMotyw = selectMotyw.getElementsByTagName('option');
-
-        for (var i = 0; i < optionsKategoria.length; i++) {
-            optionsKategoria[i].style.backgroundColor = '#cccccc';
-            optionsKategoria[i].style.color = '#333';
-        }
-        for (var i = 0; i < optionsMotyw.length; i++) {
-            optionsMotyw[i].style.backgroundColor = '#cccccc';
-            optionsMotyw[i].style.color = '#333';
-        }
-        var skrotContainer = document.getElementById('skrot-container');
-        skrotContainer.style.backgroundImage = 'linear-gradient(to bottom, #e6e6e6, #a5a5a5)';
-        var textInput = document.querySelector('input[type="text"]');
-        textInput.style.backgroundImage = 'linear-gradient(to bottom, rgb(235, 239, 255), rgb(189, 194, 212))';
-        var regularButton = document.querySelector('button');
-        regularButton.style.backgroundImage = 'linear-gradient(to bottom, #6cad16, #217426)';
-        regularButton.addEventListener('mouseover', function() {
-          regularButton.style.backgroundImage = 'linear-gradient(to bottom, #83c032, #217426)';
-        });
-        regularButton.addEventListener('mouseout', function() {
-          regularButton.style.backgroundImage = 'linear-gradient(to bottom, #6cad16, #217426)';
-        });
-        var pokazOdpowiedzButton = document.getElementById('pokazOdpowiedz');
-        pokazOdpowiedzButton.style.backgroundImage = 'linear-gradient(to bottom, #c03f1e, #74260e)';
-        pokazOdpowiedzButton.addEventListener('mouseover', function() {
-          pokazOdpowiedzButton.style.backgroundImage = 'linear-gradient(to bottom, #d15334, #7e2c13)';
-        });
-        pokazOdpowiedzButton.addEventListener('mouseout', function() {
-          pokazOdpowiedzButton.style.backgroundImage = 'linear-gradient(to bottom, #c03f1e, #74260e)';
-        });
-        var wylosujInnySkrotButton = document.getElementById('wylosujInnySkrot');
-        wylosujInnySkrotButton.style.backgroundImage = 'linear-gradient(to bottom, #6cad16, #217426)';
-        wylosujInnySkrotButton.addEventListener('mouseover', function() {
-          wylosujInnySkrotButton.style.backgroundImage = 'linear-gradient(to bottom, #83c032, #217426)';
-        });
-        wylosujInnySkrotButton.addEventListener('mouseout', function() {
-          wylosujInnySkrotButton.style.backgroundImage = 'linear-gradient(to bottom, #6cad16, #217426)';
-        });
-    }else if (wybranyMotyw == "Violet") {
-        document.body.style.background = 'linear-gradient(to right, #520030, #96068f)';
-        document.body.style.backgroundSize = '200% 100%';
-        document.body.style.animation = 'BackgroundAnimation 4s linear infinite';
-        document.getElementById('skrot').style.color = '#333';
-        document.getElementById('kategoria').style.border = '2px solid #ccc'
-        document.getElementById('motyw').style.border = '2px solid #ccc'
-        document.getElementById('kategoria').style.backgroundImage = 'linear-gradient(to bottom, rgb(235, 239, 255), rgb(189, 194, 212)';
-        document.getElementById('motyw').style.backgroundImage = 'linear-gradient(to bottom, rgb(235, 239, 255), rgb(189, 194, 212)';
-        document.getElementById('kategoria').style.color = '#333';
-        document.getElementById('motyw').style.color = '#333';
-        var selectKategoria = document.getElementById('kategoria');
-        var selectMotyw = document.getElementById('motyw');
-        var optionsKategoria = selectKategoria.getElementsByTagName('option');
-        var optionsMotyw = selectMotyw.getElementsByTagName('option');
-        for (var i = 0; i < optionsKategoria.length; i++) {
-            optionsKategoria[i].style.backgroundColor = '#cccccc';
-            optionsKategoria[i].style.color = '#333';
-        }
-        for (var i = 0; i < optionsMotyw.length; i++) {
-            optionsMotyw[i].style.backgroundColor = '#cccccc';
-            optionsMotyw[i].style.color = '#333';
-        }
-        var skrotContainer = document.getElementById('skrot-container');
-        skrotContainer.style.backgroundImage = 'linear-gradient(to bottom, #e6e6e6, #a5a5a5)';
-        var textInput = document.querySelector('input[type="text"]');
-        textInput.style.backgroundImage = 'linear-gradient(to bottom, rgb(235, 239, 255), rgb(189, 194, 212))';
-        var regularButton = document.querySelector('button');
-        regularButton.style.backgroundImage = 'linear-gradient(to bottom, #af20d3, #6e146a)';
-        regularButton.addEventListener('mouseover', function() {
-            regularButton.style.backgroundImage = 'linear-gradient(to bottom, #c73ee9, #8a2e85)';
-        });
-        regularButton.addEventListener('mouseout', function() {
-            regularButton.style.backgroundImage = 'linear-gradient(to bottom, #af20d3, #6e146a)';
-        });
-        var pokazOdpowiedzButton = document.getElementById('pokazOdpowiedz');
-        pokazOdpowiedzButton.style.backgroundImage = 'linear-gradient(to bottom, #c03f1e, #74260e)';
-        pokazOdpowiedzButton.addEventListener('mouseover', function() {
-            pokazOdpowiedzButton.style.backgroundImage = 'linear-gradient(to bottom, #d15334, #7e2c13)';
-        });
-        pokazOdpowiedzButton.addEventListener('mouseout', function() {
-            pokazOdpowiedzButton.style.backgroundImage = 'linear-gradient(to bottom, #c03f1e, #74260e)';
-        });
-        var wylosujInnySkrotButton = document.getElementById('wylosujInnySkrot');
-        wylosujInnySkrotButton.style.backgroundImage = 'linear-gradient(to bottom, #af20d3, #6e146a)';
-        wylosujInnySkrotButton.addEventListener('mouseover', function() {
-            wylosujInnySkrotButton.style.backgroundImage = 'linear-gradient(to bottom, #c73ee9, #8a2e85)';
-        });
-        wylosujInnySkrotButton.addEventListener('mouseout', function() {
-            wylosujInnySkrotButton.style.backgroundImage = 'linear-gradient(to bottom, #af20d3, #6e146a)';
-        });
-    }else if (wybranyMotyw == "Pink") {
-        document.body.style.background = 'linear-gradient(to bottom, #e27979, rgb(226, 125, 147)';
-        document.body.style.backgroundSize = '200% 100%';
-        document.body.style.animation = 'BackgroundAnimation 4s linear infinite';
-        document.getElementById('skrot').style.color = '#333';
-        document.getElementById('kategoria').style.border = '2px solid #ccc'
-        document.getElementById('motyw').style.border = '2px solid #ccc'
-        document.getElementById('kategoria').style.backgroundImage = 'linear-gradient(to bottom, rgb(235, 239, 255), rgb(189, 194, 212)';
-        document.getElementById('motyw').style.backgroundImage = 'linear-gradient(to bottom, rgb(235, 239, 255), rgb(189, 194, 212)';
-        document.getElementById('kategoria').style.color = '#333';
-        document.getElementById('motyw').style.color = '#333';
-        var selectKategoria = document.getElementById('kategoria');
-        var selectMotyw = document.getElementById('motyw');
-        var optionsKategoria = selectKategoria.getElementsByTagName('option');
-        var optionsMotyw = selectMotyw.getElementsByTagName('option');
-        for (var i = 0; i < optionsKategoria.length; i++) {
-            optionsKategoria[i].style.backgroundColor = '#cccccc';
-            optionsKategoria[i].style.color = '#333';
-        }
-        for (var i = 0; i < optionsMotyw.length; i++) {
-            optionsMotyw[i].style.backgroundColor = '#cccccc';
-            optionsMotyw[i].style.color = '#333';
-        }
-        var skrotContainer = document.getElementById('skrot-container');
-        skrotContainer.style.backgroundImage = 'linear-gradient(to bottom, #e6e6e6, #a5a5a5)';
-        var textInput = document.querySelector('input[type="text"]');
-        textInput.style.backgroundImage = 'linear-gradient(to bottom, rgb(235, 239, 255), rgb(189, 194, 212))';
-        var regularButton = document.querySelector('button');
-        regularButton.style.backgroundImage = 'linear-gradient(to bottom, #4d4b4a, #201f1f)';
-        regularButton.addEventListener('mouseover', function() {
-            regularButton.style.backgroundImage = 'linear-gradient(to bottom, #666564, #2e2d2d)';
-        });
-        regularButton.addEventListener('mouseout', function() {
-            regularButton.style.backgroundImage = 'linear-gradient(to bottom, #4d4b4a, #201f1f)';
-        });
-        var pokazOdpowiedzButton = document.getElementById('pokazOdpowiedz');
-        pokazOdpowiedzButton.style.backgroundImage = 'linear-gradient(to bottom, #c03f1e, #74260e)';
-        pokazOdpowiedzButton.addEventListener('mouseover', function() {
-            pokazOdpowiedzButton.style.backgroundImage = 'linear-gradient(to bottom, #d15334, #7e2c13)';
-        });
-        pokazOdpowiedzButton.addEventListener('mouseout', function() {
-            pokazOdpowiedzButton.style.backgroundImage = 'linear-gradient(to bottom, #c03f1e, #74260e)';
-        });
-        var wylosujInnySkrotButton = document.getElementById('wylosujInnySkrot');
-        wylosujInnySkrotButton.style.backgroundImage = 'linear-gradient(to bottom, #4d4b4a, #201f1f)';
-        wylosujInnySkrotButton.addEventListener('mouseover', function() {
-            wylosujInnySkrotButton.style.backgroundImage = 'linear-gradient(to bottom, #666564, #2e2d2d)';
-        });
-        wylosujInnySkrotButton.addEventListener('mouseout', function() {
-            wylosujInnySkrotButton.style.backgroundImage = 'linear-gradient(to bottom, #4d4b4a, #201f1f)';
-        });
-    }else if (wybranyMotyw == "Blue") {
-        document.body.style.background = 'linear-gradient(to right, #5233da, rgb(15, 9, 105)';
-        document.body.style.backgroundSize = '200% 100%';
-        document.body.style.animation = 'BackgroundAnimation 4s linear infinite';
-        document.getElementById('skrot-container').style.backgroundImage = 'linear-gradient(to bottom, rgba(19, 19, 19, 0.7), rgba(7, 0, 0, 0.7))';
-        document.getElementById('skrot').style.color = 'white';
-        document.getElementById('kategoria').style.border = '2px solid rgb(39, 27, 27)'
-        document.getElementById('motyw').style.border = '2px solid rgb(39, 27, 27)'
-        document.getElementById('kategoria').style.backgroundImage = 'linear-gradient(to bottom, rgba(235, 239, 255, 0), rgba(189, 194, 212, 0)';
-        document.getElementById('motyw').style.backgroundImage = 'linear-gradient(to bottom, rgba(235, 239, 255, 0), rgba(189, 194, 212, 0)';
-        document.getElementById('kategoria').style.backgroundColor = 'rgba(19, 19, 19, 0.7)';
-        document.getElementById('motyw').style.backgroundColor = 'rgba(19, 19, 19, 0.7)';
-        document.getElementById('kategoria').style.color = 'white';
-        document.getElementById('motyw').style.color = 'white';
-        var selectKategoria = document.getElementById('kategoria');
-        var selectMotyw = document.getElementById('motyw');
-        var optionsKategoria = selectKategoria.getElementsByTagName('option');
-        var optionsMotyw = selectMotyw.getElementsByTagName('option');
-        for (var i = 0; i < optionsKategoria.length; i++) {
-            optionsKategoria[i].style.backgroundColor = '#131313';
-            optionsKategoria[i].style.color = '#ffffff';
-        }
-        for (var i = 0; i < optionsMotyw.length; i++) {
-            optionsMotyw[i].style.backgroundColor = '#131313';
-            optionsMotyw[i].style.color = '#ffffff';
-        }
-        var textInput = document.querySelector('input[type="text"]');
-        textInput.style.backgroundImage = 'linear-gradient(to bottom, rgb(235, 239, 255), rgb(189, 194, 212))';
-        var regularButton = document.querySelector('button');
-        regularButton.style.backgroundImage = 'linear-gradient(to bottom, #b9bbb6, rgb(111, 111, 117))';
-        regularButton.addEventListener('mouseover', function() {
-            regularButton.style.backgroundImage = 'linear-gradient(to bottom, #5b5e57, rgb(86, 86, 92))';
-        });
-        regularButton.addEventListener('mouseout', function() {
-            regularButton.style.backgroundImage = 'linear-gradient(to bottom, #b9bbb6, rgb(111, 111, 117))';
-        });
-        var pokazOdpowiedzButton = document.getElementById('pokazOdpowiedz');
-        pokazOdpowiedzButton.style.backgroundImage = 'linear-gradient(to bottom, #c03f1e, #74260e)';
-        pokazOdpowiedzButton.addEventListener('mouseover', function() {
-          pokazOdpowiedzButton.style.backgroundImage = 'linear-gradient(to bottom, #d15334, #7e2c13)';
-        });
-        pokazOdpowiedzButton.addEventListener('mouseout', function() {
-          pokazOdpowiedzButton.style.backgroundImage = 'linear-gradient(to bottom, #c03f1e, #74260e)';
-        });
-        var wylosujInnySkrotButton = document.getElementById('wylosujInnySkrot');
-        wylosujInnySkrotButton.style.backgroundImage = 'linear-gradient(to bottom, #b9bbb6, rgb(111, 111, 117))';
-        wylosujInnySkrotButton.addEventListener('mouseover', function() {
-            wylosujInnySkrotButton.style.backgroundImage = 'linear-gradient(to bottom, #5b5e57, rgb(86, 86, 92))';
-        });
-        wylosujInnySkrotButton.addEventListener('mouseout', function() {
-            wylosujInnySkrotButton.style.backgroundImage = 'linear-gradient(to bottom, #b9bbb6, rgb(111, 111, 117))';
-        });
-    }else if (wybranyMotyw == "Orange") {
-        document.body.style.background = 'linear-gradient(to right, #ffcc00, #ff6600)';
-        document.body.style.backgroundSize = '200% 100%';
-        document.body.style.animation = 'BackgroundAnimation 4s linear infinite';
-        document.getElementById('skrot-container').style.backgroundImage = 'linear-gradient(to bottom, rgba(255, 204, 0, 0.7), rgba(255, 102, 0, 0.7))';
-        document.getElementById('skrot').style.color = 'black';
-        document.getElementById('kategoria').style.border = '2px solid #ff6600';
-        document.getElementById('motyw').style.border = '2px solid #ff6600';
-        document.getElementById('kategoria').style.backgroundImage = 'linear-gradient(to bottom, rgba(255, 255, 255, 0), rgba(255, 204, 204, 0)';
-        document.getElementById('motyw').style.backgroundImage = 'linear-gradient(to bottom, rgba(255, 255, 255, 0), rgba(255, 204, 204, 0)';
-        document.getElementById('kategoria').style.backgroundColor = 'rgba(255, 204, 0, 0.7)';
-        document.getElementById('motyw').style.backgroundColor = 'rgba(255, 204, 0, 0.7)';
-        var selectKategoria = document.getElementById('kategoria');
-        var selectMotyw = document.getElementById('motyw');
-        var optionsKategoria = selectKategoria.getElementsByTagName('option');
-        var optionsMotyw = selectMotyw.getElementsByTagName('option');
-        for (var i = 0; i < optionsKategoria.length; i++) {
-            optionsKategoria[i].style.backgroundColor = '#ffcc00';
-            optionsKategoria[i].style.color = 'black';
-        }
-        for (var i = 0; i < optionsMotyw.length; i++) {
-            optionsMotyw[i].style.backgroundColor = '#ffcc00';
-            optionsMotyw[i].style.color = 'black';
-        }
-        var textInput = document.querySelector('input[type="text"]');
-        textInput.style.backgroundImage = 'linear-gradient(to bottom, rgb(235, 239, 255), rgb(189, 194, 212))';
-        var regularButton = document.querySelector('button');
-        regularButton.style.backgroundImage = 'linear-gradient(to bottom, #6cad16, #217426)';
-        regularButton.addEventListener('mouseover', function() {
-          regularButton.style.backgroundImage = 'linear-gradient(to bottom, #83c032, #217426)';
-        });
-        regularButton.addEventListener('mouseout', function() {
-          regularButton.style.backgroundImage = 'linear-gradient(to bottom, #6cad16, #217426)';
-        });
-        var pokazOdpowiedzButton = document.getElementById('pokazOdpowiedz');
-        pokazOdpowiedzButton.style.backgroundImage = 'linear-gradient(to bottom, #c03f1e, #74260e)';
-        pokazOdpowiedzButton.addEventListener('mouseover', function() {
-          pokazOdpowiedzButton.style.backgroundImage = 'linear-gradient(to bottom, #d15334, #7e2c13)';
-        });
-        pokazOdpowiedzButton.addEventListener('mouseout', function() {
-          pokazOdpowiedzButton.style.backgroundImage = 'linear-gradient(to bottom, #c03f1e, #74260e)';
-        });
-        var wylosujInnySkrotButton = document.getElementById('wylosujInnySkrot');
-        wylosujInnySkrotButton.style.backgroundImage = 'linear-gradient(to bottom, #6cad16, #217426)';
-        wylosujInnySkrotButton.addEventListener('mouseover', function() {
-          wylosujInnySkrotButton.style.backgroundImage = 'linear-gradient(to bottom, #83c032, #217426)';
-        });
-        wylosujInnySkrotButton.addEventListener('mouseout', function() {
-          wylosujInnySkrotButton.style.backgroundImage = 'linear-gradient(to bottom, #6cad16, #217426)';
-        });
-    }else if (wybranyMotyw == "Pony") {
-        document.body.style.background = 'linear-gradient(to right, #ff66b2, #ff3399)';
-        document.getElementById('skrot-container').style.backgroundImage = 'linear-gradient(to bottom, rgba(204, 204, 204, 0.7), rgba(204, 102, 102, 0.7))';
-        document.getElementById('skrot').style.color = 'white';
-        document.getElementById('kategoria').style.border = '2px solid #ff6666';
-        document.getElementById('motyw').style.border = '2px solid #ff6666';
-        document.getElementById('kategoria').style.backgroundImage = 'linear-gradient(to bottom, rgba(255, 255, 255, 0), rgba(255, 204, 204, 0)';
-        document.getElementById('motyw').style.backgroundImage = 'linear-gradient(to bottom, rgba(255, 255, 255, 0), rgba(255, 204, 204, 0)';
-        document.getElementById('kategoria').style.backgroundColor = 'rgba(255, 153, 153, 0.7)';
-        document.getElementById('motyw').style.backgroundColor = 'rgba(255, 153, 153, 0.7)';
-        document.getElementById('kategoria').style.color = 'white';
-        document.getElementById('motyw').style.color = 'white';
-    
-        var selectKategoria = document.getElementById('kategoria');
-        var selectMotyw = document.getElementById('motyw');
-        var optionsKategoria = selectKategoria.getElementsByTagName('option');
-        var optionsMotyw = selectMotyw.getElementsByTagName('option');
-        for (var i = 0; i < optionsKategoria.length; i++) {
-            optionsKategoria[i].style.backgroundColor = '#ff6666';
-            optionsKategoria[i].style.color = '#ffffff';
-        }
-        for (var i = 0; i < optionsMotyw.length; i++) {
-            optionsMotyw[i].style.backgroundColor = '#ff6666';
-            optionsMotyw[i].style.color = '#ffffff';
-        }
-        var textInput = document.querySelector('input[type="text"]');
-        textInput.style.backgroundImage = 'linear-gradient(to bottom, rgb(235, 239, 255), rgb(189, 194, 212))';
-        var regularButton = document.querySelector('button');
-        regularButton.style.backgroundImage = 'linear-gradient(to bottom, #6cad16, #217426)';
-        regularButton.addEventListener('mouseover', function() {
-          regularButton.style.backgroundImage = 'linear-gradient(to bottom, #83c032, #217426)';
-        });
-        regularButton.addEventListener('mouseout', function() {
-          regularButton.style.backgroundImage = 'linear-gradient(to bottom, #6cad16, #217426)';
-        });
-        var pokazOdpowiedzButton = document.getElementById('pokazOdpowiedz');
-        pokazOdpowiedzButton.style.backgroundImage = 'linear-gradient(to bottom, #c03f1e, #74260e)';
-        pokazOdpowiedzButton.addEventListener('mouseover', function() {
-          pokazOdpowiedzButton.style.backgroundImage = 'linear-gradient(to bottom, #d15334, #7e2c13)';
-        });
-        pokazOdpowiedzButton.addEventListener('mouseout', function() {
-          pokazOdpowiedzButton.style.backgroundImage = 'linear-gradient(to bottom, #c03f1e, #74260e)';
-        });
-        var wylosujInnySkrotButton = document.getElementById('wylosujInnySkrot');
-        wylosujInnySkrotButton.style.backgroundImage = 'linear-gradient(to bottom, #6cad16, #217426)';
-        wylosujInnySkrotButton.addEventListener('mouseover', function() {
-          wylosujInnySkrotButton.style.backgroundImage = 'linear-gradient(to bottom, #83c032, #217426)';
-        });
-        wylosujInnySkrotButton.addEventListener('mouseout', function() {
-          wylosujInnySkrotButton.style.backgroundImage = 'linear-gradient(to bottom, #6cad16, #217426)';
-        });
-    }
-}
-window.onload = function(){
-    zmienKategorie();
-    zmienMotyw();
     losujSkrót();
 }
 
+// Obsługa bindów klawiszowych (←, ↓, →)
+document.addEventListener("keydown", function (event) {
+    if (event.key === "ArrowLeft") {
+        event.preventDefault();
+        sprawdzOdpowiedz();
+    } 
+    else if (event.key === "ArrowDown") {
+        event.preventDefault();
+        pokazOdpowiedz();
+    } 
+    else if (event.key === "ArrowRight") {
+        event.preventDefault();
+        losujInnySkrót();
+    }
+});
 
+// Obsługa klawisza Enter
+const odpowiedzElem = document.getElementById("odpowiedz");
+if (odpowiedzElem) {
+    odpowiedzElem.addEventListener("keyup", function (event) {
+        if (event.key === "Enter") {
+            sprawdzOdpowiedz();
+        }
+    });
+}
 
+// Obsługa okna modalnego
+function toggleModal(show) {
+    const modal = document.getElementById('modal-categories');
+    if (!modal) return;
+    if (show) {
+        modal.classList.add('active');
+    } else {
+        modal.classList.remove('active');
+    }
+}
 
+const modalElem = document.getElementById('modal-categories');
+if (modalElem) {
+    modalElem.addEventListener('click', function(e) {
+        if (e.target === this) {
+            toggleModal(false);
+        }
+    });
+}
 
+// Zmiana motywu wizualnego
+function zmienMotyw() {
+    const motywElem = document.getElementById("motyw");
+    if (!motywElem) return;
+    
+    const wybranyMotyw = motywElem.value;
+    document.body.setAttribute("data-theme", wybranyMotyw);
+}
 
-
-
-
-
-
+window.onload = function() {
+    zaktualizujKategorie();
+    zmienMotyw();
+};
